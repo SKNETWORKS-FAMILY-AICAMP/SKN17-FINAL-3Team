@@ -1,0 +1,1301 @@
+{
+  "source_video": "clip_wbsc.mp4",
+  "segments": [
+    {
+      "utterance_id": "clip_1_1",
+      "role": "caster",
+      "speaker_name": "A",
+      "speaker_id": "1",
+      "start_sec": 0.07,
+      "end_sec": 5.12,
+      "text": "지금부터 프리미어 12 4강전 준결승 경기 한일전으로 마련된"
+    },
+    {
+      "utterance_id": "clip_2_1",
+      "role": "caster",
+      "speaker_name": "A",
+      "speaker_id": "1",
+      "start_sec": 5.57,
+      "end_sec": 14.5,
+      "text": "프리미어 12 준결승 경기 안경현 해설위원 그리고 이승엽 특별 해설위원과 함께 하겠습니다. 이대훈 선수와 오타니 쇼헤이 선수가 오늘 경기 선발로 맞붙게 됐습니다."
+    },
+    {
+      "utterance_id": "clip_3_1",
+      "role": "caster",
+      "speaker_name": "A",
+      "speaker_id": "1",
+      "start_sec": 15.67,
+      "end_sec": 20.46,
+      "text": "11일 만에 마운드에 오른 오타니 쇼헤이의 초구는 몸조건 끌어당긴 타구입니다. 3루 쪽으로"
+    },
+    {
+      "utterance_id": "clip_3_2",
+      "role": "caster",
+      "speaker_name": "A",
+      "speaker_id": "1",
+      "start_sec": 21.39,
+      "end_sec": 22.92,
+      "text": "3루수 마치다가 1루"
+    },
+    {
+      "utterance_id": "clip_4_1",
+      "role": "caster",
+      "speaker_name": "A",
+      "speaker_id": "1",
+      "start_sec": 24.345,
+      "end_sec": 29.555,
+      "text": "선에 출전을 했습니다. 바깥쪽 툭 갖다 맞췄습니다. 3루수 마치다 1루에"
+    },
+    {
+      "utterance_id": "clip_5_1",
+      "role": "caster",
+      "speaker_name": "A",
+      "speaker_id": "1",
+      "start_sec": 31.57,
+      "end_sec": 32.48,
+      "text": "파울팀 삼진"
+    },
+    {
+      "utterance_id": "clip_5_2",
+      "role": "caster",
+      "speaker_name": "A",
+      "speaker_id": "1",
+      "start_sec": 33.11,
+      "end_sec": 34.22,
+      "text": "지금 세 번 털었는데"
+    },
+    {
+      "utterance_id": "clip_5_3",
+      "role": "caster",
+      "speaker_name": "A",
+      "speaker_id": "1",
+      "start_sec": 35.45,
+      "end_sec": 37.92,
+      "text": "다시 갖다 맞힌 타구 라인 드라이브 아웃입니다."
+    },
+    {
+      "utterance_id": "clip_6_1",
+      "role": "analyst",
+      "speaker_name": "B",
+      "speaker_id": "2",
+      "start_sec": 38.539,
+      "end_sec": 40.549,
+      "text": "스트라이크 존이 아니라 좀 바짝 붙였으면 좋겠네요."
+    },
+    {
+      "utterance_id": "clip_7_1",
+      "role": "caster",
+      "speaker_name": "A",
+      "speaker_id": "1",
+      "start_sec": 40.745,
+      "end_sec": 40.895,
+      "text": "예."
+    },
+    {
+      "utterance_id": "clip_7_2",
+      "role": "caster",
+      "speaker_name": "A",
+      "speaker_id": "1",
+      "start_sec": 42.085,
+      "end_sec": 43.415,
+      "text": "당긴 타구 유격수 정면"
+    },
+    {
+      "utterance_id": "clip_7_3",
+      "role": "caster",
+      "speaker_name": "A",
+      "speaker_id": "1",
+      "start_sec": 44.165,
+      "end_sec": 45.535,
+      "text": "김재호가 잡아내서 1루에"
+    },
+    {
+      "utterance_id": "clip_7_4",
+      "role": "caster",
+      "speaker_name": "A",
+      "speaker_id": "1",
+      "start_sec": 46.565,
+      "end_sec": 46.715,
+      "text": "예."
+    },
+    {
+      "utterance_id": "clip_8_1",
+      "role": "caster",
+      "speaker_name": "A",
+      "speaker_id": "1",
+      "start_sec": 49.06,
+      "end_sec": 50.17,
+      "text": "바깥쪽 바운드 볼에"
+    },
+    {
+      "utterance_id": "clip_8_2",
+      "role": "caster",
+      "speaker_name": "A",
+      "speaker_id": "1",
+      "start_sec": 50.88,
+      "end_sec": 51.89,
+      "text": "꿈쩍하지 않았습니다."
+    },
+    {
+      "utterance_id": "clip_8_3",
+      "role": "caster",
+      "speaker_name": "A",
+      "speaker_id": "1",
+      "start_sec": 52.78,
+      "end_sec": 54.49,
+      "text": "볼넷을 골라서 1루에 나갑니다."
+    },
+    {
+      "utterance_id": "clip_8_4",
+      "role": "caster",
+      "speaker_name": "A",
+      "speaker_id": "1",
+      "start_sec": 55.68,
+      "end_sec": 57.89,
+      "text": "스리볼 노스트라에게서 바깥쪽 하나 멀리"
+    },
+    {
+      "utterance_id": "clip_8_5",
+      "role": "caster",
+      "speaker_name": "A",
+      "speaker_id": "1",
+      "start_sec": 58.82,
+      "end_sec": 59.63,
+      "text": "볼넷이 됐습니다."
+    },
+    {
+      "utterance_id": "clip_9_1",
+      "role": "caster",
+      "speaker_name": "A",
+      "speaker_id": "1",
+      "start_sec": 60.845,
+      "end_sec": 62.715,
+      "text": "조금 갑갑함을 느낄 수도 있을 것 같은데"
+    },
+    {
+      "utterance_id": "clip_9_2",
+      "role": "caster",
+      "speaker_name": "A",
+      "speaker_id": "1",
+      "start_sec": 63.605,
+      "end_sec": 68.555,
+      "text": "높게 떠오른 타구 왼쪽에 떠올랐고요. 유격수 손짓 김재호 손짓하고"
+    },
+    {
+      "utterance_id": "clip_9_3",
+      "role": "caster",
+      "speaker_name": "A",
+      "speaker_id": "1",
+      "start_sec": 69.725,
+      "end_sec": 70.215,
+      "text": "잡아냅니다."
+    },
+    {
+      "utterance_id": "clip_10_1",
+      "role": "caster",
+      "speaker_name": "A",
+      "speaker_id": "1",
+      "start_sec": 73.14,
+      "end_sec": 74.89,
+      "text": "6구 바깥쪽에"
+    },
+    {
+      "utterance_id": "clip_11_1",
+      "role": "caster",
+      "speaker_name": "A",
+      "speaker_id": "1",
+      "start_sec": 76.334,
+      "end_sec": 84.064,
+      "text": "아 지금 곡은 아쉬운데요. 예 좀 약한 모습을 보였습니다만 극복을 해줬으면 좋겠고요. 이렇게 극복을 해내면 됩니다."
+    },
+    {
+      "utterance_id": "clip_12_1",
+      "role": "caster",
+      "speaker_name": "A",
+      "speaker_id": "1",
+      "start_sec": 85.025,
+      "end_sec": 87.035,
+      "text": "스윙 삼진으로 마치다를 넘어서고 있습니다."
+    },
+    {
+      "utterance_id": "clip_12_2",
+      "role": "caster",
+      "speaker_name": "A",
+      "speaker_id": "1",
+      "start_sec": 87.845,
+      "end_sec": 91.755,
+      "text": "주자 뛰었고요. 높은 공을 건드렸는데 네 알을 살짝 건너갑니다."
+    },
+    {
+      "utterance_id": "clip_13_1",
+      "role": "caster",
+      "speaker_name": "A",
+      "speaker_id": "1",
+      "start_sec": 93.495,
+      "end_sec": 94.825,
+      "text": "나카타 쇼는 3루까지"
+    },
+    {
+      "utterance_id": "clip_13_2",
+      "role": "caster",
+      "speaker_name": "A",
+      "speaker_id": "1",
+      "start_sec": 96.035,
+      "end_sec": 97.305,
+      "text": "14의 주자 3루 1루"
+    },
+    {
+      "utterance_id": "clip_13_3",
+      "role": "caster",
+      "speaker_name": "A",
+      "speaker_id": "1",
+      "start_sec": 99.635,
+      "end_sec": 100.285,
+      "text": "이구 변하"
+    },
+    {
+      "utterance_id": "clip_13_4",
+      "role": "caster",
+      "speaker_name": "A",
+      "speaker_id": "1",
+      "start_sec": 100.895,
+      "end_sec": 102.065,
+      "text": "3루간 왼쪽에 안타"
+    },
+    {
+      "utterance_id": "clip_14_1",
+      "role": "caster",
+      "speaker_name": "A",
+      "speaker_id": "1",
+      "start_sec": 103.96,
+      "end_sec": 105.99,
+      "text": "3루에 있던 렌타카 쇼가 먼저 들어왔습니다."
+    },
+    {
+      "utterance_id": "clip_14_2",
+      "role": "caster",
+      "speaker_name": "A",
+      "speaker_id": "1",
+      "start_sec": 108.56,
+      "end_sec": 111.01,
+      "text": "일본이 오늘 이 경기에 선취점을 뽑습니다."
+    },
+    {
+      "utterance_id": "clip_15_1",
+      "role": "caster",
+      "speaker_name": "A",
+      "speaker_id": "1",
+      "start_sec": 112.13,
+      "end_sec": 117.16,
+      "text": "바깥쪽 높은 바운드의 타구 유격수 숏 바운드 처리 2루 2루에서 몸이 빠집니다."
+    },
+    {
+      "utterance_id": "clip_15_2",
+      "role": "caster",
+      "speaker_name": "A",
+      "speaker_id": "1",
+      "start_sec": 118.57,
+      "end_sec": 121.36,
+      "text": "자 실책이 나오면서 한 점을 더 내주고 있습니다."
+    },
+    {
+      "utterance_id": "clip_16_1",
+      "role": "caster",
+      "speaker_name": "A",
+      "speaker_id": "1",
+      "start_sec": 127.81,
+      "end_sec": 130.3,
+      "text": "차우찬 선수가 두 번째 투수로 마운드 올라왔습니다."
+    },
+    {
+      "utterance_id": "clip_16_2",
+      "role": "caster",
+      "speaker_name": "A",
+      "speaker_id": "1",
+      "start_sec": 132.49,
+      "end_sec": 133.04,
+      "text": "빠졌습니다."
+    },
+    {
+      "utterance_id": "clip_16_3",
+      "role": "caster",
+      "speaker_name": "A",
+      "speaker_id": "1",
+      "start_sec": 134.27,
+      "end_sec": 136.48,
+      "text": "볼렛이 됐습니다. 주자 만루가 되고요."
+    },
+    {
+      "utterance_id": "clip_17_1",
+      "role": "caster",
+      "speaker_name": "A",
+      "speaker_id": "1",
+      "start_sec": 138.625,
+      "end_sec": 141.015,
+      "text": "위기가 계속해서 이어지고 있는 우리 대표팀"
+    },
+    {
+      "utterance_id": "clip_18_1",
+      "role": "caster",
+      "speaker_name": "A",
+      "speaker_id": "1",
+      "start_sec": 143.32,
+      "end_sec": 146.23,
+      "text": "착한 오퍼를 타고 오른쪽 높게 떴습니다. 우익수 뜁니다."
+    },
+    {
+      "utterance_id": "clip_18_2",
+      "role": "caster",
+      "speaker_name": "A",
+      "speaker_id": "1",
+      "start_sec": 146.88,
+      "end_sec": 149.17,
+      "text": "담장 쪽 바로 앞에서 잡혔습니다."
+    },
+    {
+      "utterance_id": "clip_18_3",
+      "role": "caster",
+      "speaker_name": "A",
+      "speaker_id": "1",
+      "start_sec": 149.82,
+      "end_sec": 150.43,
+      "text": "3루자 태업"
+    },
+    {
+      "utterance_id": "clip_18_4",
+      "role": "caster",
+      "speaker_name": "A",
+      "speaker_id": "1",
+      "start_sec": 151.3,
+      "end_sec": 152.05,
+      "text": "홈으로 들어옵니다."
+    },
+    {
+      "utterance_id": "clip_19_1",
+      "role": "caster",
+      "speaker_name": "A",
+      "speaker_id": "1",
+      "start_sec": 152.885,
+      "end_sec": 153.535,
+      "text": "스코어 3 대 0"
+    },
+    {
+      "utterance_id": "clip_19_2",
+      "role": "caster",
+      "speaker_name": "A",
+      "speaker_id": "1",
+      "start_sec": 154.645,
+      "end_sec": 156.315,
+      "text": "사카모토 하야토의 희생 플라이"
+    },
+    {
+      "utterance_id": "clip_19_3",
+      "role": "caster",
+      "speaker_name": "A",
+      "speaker_id": "1",
+      "start_sec": 159.285,
+      "end_sec": 160.275,
+      "text": "변하고 들어왔습니다."
+    },
+    {
+      "utterance_id": "clip_20_1",
+      "role": "caster",
+      "speaker_name": "A",
+      "speaker_id": "1",
+      "start_sec": 164.65,
+      "end_sec": 165.18,
+      "text": "바운드 볼"
+    },
+    {
+      "utterance_id": "clip_20_2",
+      "role": "caster",
+      "speaker_name": "A",
+      "speaker_id": "1",
+      "start_sec": 166.17,
+      "end_sec": 166.56,
+      "text": "됐습니다."
+    },
+    {
+      "utterance_id": "clip_20_3",
+      "role": "caster",
+      "speaker_name": "A",
+      "speaker_id": "1",
+      "start_sec": 167.33,
+      "end_sec": 168.66,
+      "text": "투 투에서 결국"
+    },
+    {
+      "utterance_id": "clip_20_4",
+      "role": "caster",
+      "speaker_name": "A",
+      "speaker_id": "1",
+      "start_sec": 169.63,
+      "end_sec": 170.82,
+      "text": "민병헌도 삼진으로"
+    },
+    {
+      "utterance_id": "clip_21_1",
+      "role": "caster",
+      "speaker_name": "A",
+      "speaker_id": "1",
+      "start_sec": 172.515,
+      "end_sec": 175.285,
+      "text": "높은 공에 따라갔습니다. 빛 맞았고요."
+    },
+    {
+      "utterance_id": "clip_21_2",
+      "role": "caster",
+      "speaker_name": "A",
+      "speaker_id": "1",
+      "start_sec": 176.695,
+      "end_sec": 178.385,
+      "text": "높게 떠오른 타구를 이용규가 쳐"
+    },
+    {
+      "utterance_id": "clip_21_3",
+      "role": "caster",
+      "speaker_name": "A",
+      "speaker_id": "1",
+      "start_sec": 179.935,
+      "end_sec": 180.905,
+      "text": "볼렛 볼러 나갑니다."
+    },
+    {
+      "utterance_id": "clip_22_1",
+      "role": "caster",
+      "speaker_name": "A",
+      "speaker_id": "1",
+      "start_sec": 182.665,
+      "end_sec": 182.975,
+      "text": "멈춰"
+    },
+    {
+      "utterance_id": "clip_22_2",
+      "role": "caster",
+      "speaker_name": "A",
+      "speaker_id": "1",
+      "start_sec": 183.645,
+      "end_sec": 184.175,
+      "text": "통했습니다."
+    },
+    {
+      "utterance_id": "clip_23_1",
+      "role": "analyst",
+      "speaker_name": "B",
+      "speaker_id": "2",
+      "start_sec": 184.68,
+      "end_sec": 188.25,
+      "text": "예 지금 차우찬 선수의 투구를 보시면 코혹이 잘 되고 있고요."
+    },
+    {
+      "utterance_id": "clip_24_1",
+      "role": "caster",
+      "speaker_name": "A",
+      "speaker_id": "1",
+      "start_sec": 189.835,
+      "end_sec": 193.985,
+      "text": "변화구 슬그머니 따라갔습니다만 2루 쪽 땅볼 타구 정근우가 집어들어서 1루에"
+    },
+    {
+      "utterance_id": "clip_25_1",
+      "role": "caster",
+      "speaker_name": "A",
+      "speaker_id": "1",
+      "start_sec": 195.47,
+      "end_sec": 202.26,
+      "text": "대단한 위압감을 느꼈을 텐데 정근우가 잘 받아 때렸습니다. 오늘 경기 첫 안타가 7회 초에 나옵니다."
+    },
+    {
+      "utterance_id": "clip_26_1",
+      "role": "caster",
+      "speaker_name": "A",
+      "speaker_id": "1",
+      "start_sec": 207.85,
+      "end_sec": 208.76,
+      "text": "바깥쪽 신성진,"
+    },
+    {
+      "utterance_id": "clip_26_2",
+      "role": "caster",
+      "speaker_name": "A",
+      "speaker_id": "1",
+      "start_sec": 210.21,
+      "end_sec": 212.28,
+      "text": "김현수만 만나면 오타니 선수는"
+    },
+    {
+      "utterance_id": "clip_26_3",
+      "role": "caster",
+      "speaker_name": "A",
+      "speaker_id": "1",
+      "start_sec": 214.41,
+      "end_sec": 214.9,
+      "text": "신성진"
+    },
+    {
+      "utterance_id": "clip_27_1",
+      "role": "caster",
+      "speaker_name": "A",
+      "speaker_id": "1",
+      "start_sec": 216.54,
+      "end_sec": 220.77,
+      "text": "3구 끌어당긴 타구 3루수 막스다가 2루에 뿌리면서 이렇게"
+    },
+    {
+      "utterance_id": "clip_27_2",
+      "role": "caster",
+      "speaker_name": "A",
+      "speaker_id": "1",
+      "start_sec": 221.4,
+      "end_sec": 223.11,
+      "text": "이닝은 마무리되고 있습니다."
+    },
+    {
+      "utterance_id": "clip_28_1",
+      "role": "analyst",
+      "speaker_name": "B",
+      "speaker_id": "2",
+      "start_sec": 224.74,
+      "end_sec": 228.43,
+      "text": "오늘 게임 또 삿포로에서 열렸던 게임이 굉장히 좋은 경험이었고요."
+    },
+    {
+      "utterance_id": "clip_28_2",
+      "role": "analyst",
+      "speaker_name": "B",
+      "speaker_id": "2",
+      "start_sec": 229.04,
+      "end_sec": 229.29,
+      "text": "앞으로"
+    },
+    {
+      "utterance_id": "clip_29_1",
+      "role": "caster",
+      "speaker_name": "A",
+      "speaker_id": "1",
+      "start_sec": 230.09,
+      "end_sec": 230.48,
+      "text": "바깥쪽"
+    },
+    {
+      "utterance_id": "clip_29_2",
+      "role": "caster",
+      "speaker_name": "A",
+      "speaker_id": "1",
+      "start_sec": 231.65,
+      "end_sec": 232.18,
+      "text": "볼렛이에요."
+    },
+    {
+      "utterance_id": "clip_29_3",
+      "role": "caster",
+      "speaker_name": "A",
+      "speaker_id": "1",
+      "start_sec": 233.85,
+      "end_sec": 235.96,
+      "text": "들려오지 않았고요. 바깥쪽 휘어져 나가는 거"
+    },
+    {
+      "utterance_id": "clip_30_1",
+      "role": "caster",
+      "speaker_name": "A",
+      "speaker_id": "1",
+      "start_sec": 236.805,
+      "end_sec": 239.555,
+      "text": "볼 넷입니다. 여기서 심창민 선수가 흥분하지 말았으면 좋겠고요."
+    },
+    {
+      "utterance_id": "clip_30_2",
+      "role": "caster",
+      "speaker_name": "A",
+      "speaker_id": "1",
+      "start_sec": 240.365,
+      "end_sec": 242.655,
+      "text": "정우람 선수가 네 번째 투수로 마운드에 올라왔습니다."
+    },
+    {
+      "utterance_id": "clip_31_1",
+      "role": "analyst",
+      "speaker_name": "C",
+      "speaker_id": "3",
+      "start_sec": 244.3,
+      "end_sec": 245.77,
+      "text": "바깥쪽으로 삼진"
+    },
+    {
+      "utterance_id": "clip_32_1",
+      "role": "caster",
+      "speaker_name": "A",
+      "speaker_id": "1",
+      "start_sec": 246.724,
+      "end_sec": 247.074,
+      "text": "원아웃"
+    },
+    {
+      "utterance_id": "clip_32_2",
+      "role": "caster",
+      "speaker_name": "A",
+      "speaker_id": "1",
+      "start_sec": 248.724,
+      "end_sec": 254.254,
+      "text": "정은남 선수는 이번 좋은 기록을 보여줬습니다. 높게 떠올랐습니다. 센터 쪽 중견수"
+    },
+    {
+      "utterance_id": "clip_32_3",
+      "role": "caster",
+      "speaker_name": "A",
+      "speaker_id": "1",
+      "start_sec": 255.144,
+      "end_sec": 255.634,
+      "text": "워닝 트랙"
+    },
+    {
+      "utterance_id": "clip_33_1",
+      "role": "caster",
+      "speaker_name": "A",
+      "speaker_id": "1",
+      "start_sec": 256.815,
+      "end_sec": 258.285,
+      "text": "바로 앞에서 이용규가 잡았습니다."
+    },
+    {
+      "utterance_id": "clip_33_2",
+      "role": "caster",
+      "speaker_name": "A",
+      "speaker_id": "1",
+      "start_sec": 259.055,
+      "end_sec": 260.605,
+      "text": "사카모토가 한 베이스를 더 나갑니다."
+    },
+    {
+      "utterance_id": "clip_33_3",
+      "role": "caster",
+      "speaker_name": "A",
+      "speaker_id": "1",
+      "start_sec": 263.575,
+      "end_sec": 264.545,
+      "text": "당겼습니다. 왼쪽"
+    },
+    {
+      "utterance_id": "clip_33_4",
+      "role": "caster",
+      "speaker_name": "A",
+      "speaker_id": "1",
+      "start_sec": 265.375,
+      "end_sec": 265.805,
+      "text": "좌익수"
+    },
+    {
+      "utterance_id": "clip_34_1",
+      "role": "caster",
+      "speaker_name": "A",
+      "speaker_id": "1",
+      "start_sec": 266.66,
+      "end_sec": 267.15,
+      "text": "따라갑니다."
+    },
+    {
+      "utterance_id": "clip_34_2",
+      "role": "caster",
+      "speaker_name": "A",
+      "speaker_id": "1",
+      "start_sec": 267.82,
+      "end_sec": 270.53,
+      "text": "라인 근처에서 좌익수 김현수가 잡아냈습니다."
+    },
+    {
+      "utterance_id": "clip_34_3",
+      "role": "caster",
+      "speaker_name": "A",
+      "speaker_id": "1",
+      "start_sec": 274.32,
+      "end_sec": 275.31,
+      "text": "초구부터 휘둘렀습니다."
+    },
+    {
+      "utterance_id": "clip_35_1",
+      "role": "caster",
+      "speaker_name": "A",
+      "speaker_id": "1",
+      "start_sec": 276.074,
+      "end_sec": 277.524,
+      "text": "센터 쪽에 떴고 중견수"
+    },
+    {
+      "utterance_id": "clip_35_2",
+      "role": "caster",
+      "speaker_name": "A",
+      "speaker_id": "1",
+      "start_sec": 278.514,
+      "end_sec": 278.824,
+      "text": "이동"
+    },
+    {
+      "utterance_id": "clip_35_3",
+      "role": "caster",
+      "speaker_name": "A",
+      "speaker_id": "1",
+      "start_sec": 280.854,
+      "end_sec": 281.984,
+      "text": "당긴 타구 유격수 쪽"
+    },
+    {
+      "utterance_id": "clip_35_4",
+      "role": "caster",
+      "speaker_name": "A",
+      "speaker_id": "1",
+      "start_sec": 284.174,
+      "end_sec": 285.424,
+      "text": "사카모토가 1루에 투아웃"
+    },
+    {
+      "utterance_id": "clip_36_1",
+      "role": "caster",
+      "speaker_name": "A",
+      "speaker_id": "1",
+      "start_sec": 287.41,
+      "end_sec": 287.86,
+      "text": "높은 공"
+    },
+    {
+      "utterance_id": "clip_36_2",
+      "role": "caster",
+      "speaker_name": "A",
+      "speaker_id": "1",
+      "start_sec": 289.39,
+      "end_sec": 291.32,
+      "text": "155에 빠른 공에 삼진으로"
+    },
+    {
+      "utterance_id": "clip_36_3",
+      "role": "caster",
+      "speaker_name": "A",
+      "speaker_id": "1",
+      "start_sec": 292.03,
+      "end_sec": 296.94,
+      "text": "대표팀에 합류하지 못하면서 마지막으로 합류를 했는데 애매한 타구인데요. 유격수 잡고 빠르게 1루"
+    },
+    {
+      "utterance_id": "clip_37_1",
+      "role": "analyst",
+      "speaker_name": "C",
+      "speaker_id": "3",
+      "start_sec": 297.204,
+      "end_sec": 297.614,
+      "text": "1루에서"
+    },
+    {
+      "utterance_id": "clip_38_1",
+      "role": "caster",
+      "speaker_name": "A",
+      "speaker_id": "1",
+      "start_sec": 298.077,
+      "end_sec": 299.157,
+      "text": "아웃 감구요."
+    },
+    {
+      "utterance_id": "clip_38_2",
+      "role": "caster",
+      "speaker_name": "A",
+      "speaker_id": "1",
+      "start_sec": 300.687,
+      "end_sec": 301.997,
+      "text": "다시 왼쪽에 안타"
+    },
+    {
+      "utterance_id": "clip_38_3",
+      "role": "caster",
+      "speaker_name": "A",
+      "speaker_id": "1",
+      "start_sec": 306.587,
+      "end_sec": 307.637,
+      "text": "3구 밀었습니다."
+    },
+    {
+      "utterance_id": "clip_39_1",
+      "role": "caster",
+      "speaker_name": "A",
+      "speaker_id": "1",
+      "start_sec": 308.59,
+      "end_sec": 309.12,
+      "text": "우측에 안타"
+    },
+    {
+      "utterance_id": "clip_39_2",
+      "role": "caster",
+      "speaker_name": "A",
+      "speaker_id": "1",
+      "start_sec": 310.79,
+      "end_sec": 311.44,
+      "text": "주자 2루 일루"
+    },
+    {
+      "utterance_id": "clip_40_1",
+      "role": "caster",
+      "speaker_name": "A",
+      "speaker_id": "1",
+      "start_sec": 314.5,
+      "end_sec": 318.99,
+      "text": "투투에서 5구째 때렸습니다. 센터 쪽 이용규가 한 발 앞으로 왔다 뒤로 이동"
+    },
+    {
+      "utterance_id": "clip_40_2",
+      "role": "caster",
+      "speaker_name": "A",
+      "speaker_id": "1",
+      "start_sec": 319.6,
+      "end_sec": 320.73,
+      "text": "충분히 처리할 수 있습니다."
+    },
+    {
+      "utterance_id": "clip_41_1",
+      "role": "caster",
+      "speaker_name": "A",
+      "speaker_id": "1",
+      "start_sec": 321.779,
+      "end_sec": 324.749,
+      "text": "2루 주자가 태그업해서 한 베이스를 더 만들어내고 있습니다."
+    },
+    {
+      "utterance_id": "clip_41_2",
+      "role": "caster",
+      "speaker_name": "A",
+      "speaker_id": "1",
+      "start_sec": 326.699,
+      "end_sec": 329.429,
+      "text": "엔씨 다이노스의 마무리 투수 임창민 선수"
+    },
+    {
+      "utterance_id": "clip_42_1",
+      "role": "analyst",
+      "speaker_name": "B",
+      "speaker_id": "2",
+      "start_sec": 329.69,
+      "end_sec": 330.64,
+      "text": "아주 중요한 볼이죠."
+    },
+    {
+      "utterance_id": "clip_43_1",
+      "role": "caster",
+      "speaker_name": "A",
+      "speaker_id": "1",
+      "start_sec": 331.775,
+      "end_sec": 333.245,
+      "text": "바깥쪽 스윙 스트라이크 아웃"
+    },
+    {
+      "utterance_id": "clip_43_2",
+      "role": "caster",
+      "speaker_name": "A",
+      "speaker_id": "1",
+      "start_sec": 336.455,
+      "end_sec": 338.665,
+      "text": "투 투에서 변화구를 밀어내면서 왼쪽 엔터"
+    },
+    {
+      "utterance_id": "clip_44_1",
+      "role": "caster",
+      "speaker_name": "A",
+      "speaker_id": "1",
+      "start_sec": 340.46,
+      "end_sec": 345.43,
+      "text": "오재원 선수가 노리모토 상대로 강한 면모를 두 경기 연속해서 보여주고 있습니다."
+    },
+    {
+      "utterance_id": "clip_45_1",
+      "role": "analyst",
+      "speaker_name": "C",
+      "speaker_id": "3",
+      "start_sec": 347.64,
+      "end_sec": 350.39,
+      "text": "마운드 바꿔 튀어오른 타하고 연속 안타가 됩니다."
+    },
+    {
+      "utterance_id": "clip_45_2",
+      "role": "analyst",
+      "speaker_name": "C",
+      "speaker_id": "3",
+      "start_sec": 351.66,
+      "end_sec": 352.67,
+      "text": "주자 2명이 나갔습니다."
+    },
+    {
+      "utterance_id": "clip_45_3",
+      "role": "analyst",
+      "speaker_name": "C",
+      "speaker_id": "3",
+      "start_sec": 354.78,
+      "end_sec": 356.05,
+      "text": "이 경기 아직 끝나지 않습니다."
+    },
+    {
+      "utterance_id": "clip_46_1",
+      "role": "analyst",
+      "speaker_name": "C",
+      "speaker_id": "3",
+      "start_sec": 357.83,
+      "end_sec": 360.56,
+      "text": "이구 끌어당깁니다. 라이언 쪽 빠져나갔습니다."
+    },
+    {
+      "utterance_id": "clip_47_1",
+      "role": "analyst",
+      "speaker_name": "C",
+      "speaker_id": "3",
+      "start_sec": 361.31,
+      "end_sec": 371.06,
+      "text": "오재원이 3루를 밟고 호흡으로 그리고 일루자 손아섭은 삼루에서 멈춤 실을 받았습니다. 대한민국의 첫 득점이 구 회 초에 터져 나옵니다. 스코어 삼 대 일"
+    },
+    {
+      "utterance_id": "clip_48_1",
+      "role": "analyst",
+      "speaker_name": "B",
+      "speaker_id": "2",
+      "start_sec": 371.448,
+      "end_sec": 375.638,
+      "text": "한 점이라도 안 주려고 2루 주자를 3루로 안 보내려고 하는 작전인 것 같습니다."
+    },
+    {
+      "utterance_id": "clip_49_1",
+      "role": "analyst",
+      "speaker_name": "C",
+      "speaker_id": "3",
+      "start_sec": 376.76,
+      "end_sec": 377.47,
+      "text": "끌어 당기 타"
+    },
+    {
+      "utterance_id": "clip_50_1",
+      "role": "caster",
+      "speaker_name": "A",
+      "speaker_id": "1",
+      "start_sec": 378.283,
+      "end_sec": 381.313,
+      "text": "오른쪽에 파울입니다. 타석에는 2번 타자 이용규"
+    },
+    {
+      "utterance_id": "clip_50_2",
+      "role": "caster",
+      "speaker_name": "A",
+      "speaker_id": "1",
+      "start_sec": 382.003,
+      "end_sec": 383.313,
+      "text": "볼 카운트 원볼 투 스크라이드"
+    },
+    {
+      "utterance_id": "clip_50_3",
+      "role": "caster",
+      "speaker_name": "A",
+      "speaker_id": "1",
+      "start_sec": 385.523,
+      "end_sec": 386.833,
+      "text": "몸쪽 바짝 붙어 오른 고"
+    },
+    {
+      "utterance_id": "clip_51_1",
+      "role": "analyst",
+      "speaker_name": "C",
+      "speaker_id": "3",
+      "start_sec": 388.392,
+      "end_sec": 389.282,
+      "text": "못 맞는 볼 출루"
+    },
+    {
+      "utterance_id": "clip_51_2",
+      "role": "analyst",
+      "speaker_name": "C",
+      "speaker_id": "3",
+      "start_sec": 393.012,
+      "end_sec": 393.762,
+      "text": "무사 주자 만루"
+    },
+    {
+      "utterance_id": "clip_52_1",
+      "role": "analyst",
+      "speaker_name": "B",
+      "speaker_id": "2",
+      "start_sec": 394.945,
+      "end_sec": 397.27,
+      "text": "만루에 김현수 선수 하면 또 생각나는 거 많잖아"
+    },
+    {
+      "utterance_id": "clip_53_1",
+      "role": "caster",
+      "speaker_name": "A",
+      "speaker_id": "1",
+      "start_sec": 397.34,
+      "end_sec": 397.69,
+      "text": "그렇죠"
+    },
+    {
+      "utterance_id": "clip_53_2",
+      "role": "caster",
+      "speaker_name": "A",
+      "speaker_id": "1",
+      "start_sec": 398.72,
+      "end_sec": 401.53,
+      "text": "김현수 선수 이번 대회에서도 만루에서 싹쓸이를"
+    },
+    {
+      "utterance_id": "clip_53_3",
+      "role": "caster",
+      "speaker_name": "A",
+      "speaker_id": "1",
+      "start_sec": 402.14,
+      "end_sec": 404.43,
+      "text": "기록한 바가 있습니다. 그래서 이제 3구째"
+    },
+    {
+      "utterance_id": "clip_54_1",
+      "role": "analyst",
+      "speaker_name": "C",
+      "speaker_id": "3",
+      "start_sec": 405.964,
+      "end_sec": 406.354,
+      "text": "쓰리 볼"
+    },
+    {
+      "utterance_id": "clip_54_2",
+      "role": "analyst",
+      "speaker_name": "C",
+      "speaker_id": "3",
+      "start_sec": 410.364,
+      "end_sec": 411.694,
+      "text": "바깥쪽 밀어내기 볼렛"
+    },
+    {
+      "utterance_id": "clip_54_3",
+      "role": "analyst",
+      "speaker_name": "C",
+      "speaker_id": "3",
+      "start_sec": 412.944,
+      "end_sec": 413.614,
+      "text": "스코어 3 대 2"
+    },
+    {
+      "utterance_id": "clip_55_1",
+      "role": "analyst",
+      "speaker_name": "C",
+      "speaker_id": "3",
+      "start_sec": 414.85,
+      "end_sec": 415.62,
+      "text": "이제는 한 점 차"
+    },
+    {
+      "utterance_id": "clip_56_1",
+      "role": "caster",
+      "speaker_name": "A",
+      "speaker_id": "1",
+      "start_sec": 418.27,
+      "end_sec": 418.66,
+      "text": "이대호"
+    },
+    {
+      "utterance_id": "clip_56_2",
+      "role": "caster",
+      "speaker_name": "A",
+      "speaker_id": "1",
+      "start_sec": 419.93,
+      "end_sec": 420.58,
+      "text": "4번 타자"
+    },
+    {
+      "utterance_id": "clip_57_1",
+      "role": "analyst",
+      "speaker_name": "C",
+      "speaker_id": "3",
+      "start_sec": 422.78,
+      "end_sec": 425.29,
+      "text": "당긴 타구 왼쪽 왼쪽에 떨어집니다."
+    },
+    {
+      "utterance_id": "clip_57_2",
+      "role": "analyst",
+      "speaker_name": "C",
+      "speaker_id": "3",
+      "start_sec": 426.04,
+      "end_sec": 428.09,
+      "text": "삼루입니다. 그리고 이루자까지 홈으로"
+    },
+    {
+      "utterance_id": "clip_57_3",
+      "role": "analyst",
+      "speaker_name": "C",
+      "speaker_id": "3",
+      "start_sec": 428.8,
+      "end_sec": 432.33,
+      "text": "업으로 들어옵니다. 스코어 4 대 삼 역전"
+    },
+    {
+      "utterance_id": "clip_57_4",
+      "role": "analyst",
+      "speaker_name": "C",
+      "speaker_id": "3",
+      "start_sec": 433.0,
+      "end_sec": 433.97,
+      "text": "대한민국의 역전"
+    },
+    {
+      "utterance_id": "clip_58_1",
+      "role": "analyst",
+      "speaker_name": "C",
+      "speaker_id": "3",
+      "start_sec": 435.43,
+      "end_sec": 436.12,
+      "text": "구 회 초에"
+    },
+    {
+      "utterance_id": "clip_58_2",
+      "role": "analyst",
+      "speaker_name": "C",
+      "speaker_id": "3",
+      "start_sec": 436.75,
+      "end_sec": 438.58,
+      "text": "대한민국이 일본을 무너뜨립니다."
+    },
+    {
+      "utterance_id": "clip_58_3",
+      "role": "analyst",
+      "speaker_name": "C",
+      "speaker_id": "3",
+      "start_sec": 440.09,
+      "end_sec": 443.14,
+      "text": "자기가 다 맞춘 타구 나 이거 사인드 아웃 아웃입니다."
+    },
+    {
+      "utterance_id": "clip_59_1",
+      "role": "analyst",
+      "speaker_name": "C",
+      "speaker_id": "3",
+      "start_sec": 446.37,
+      "end_sec": 454.06,
+      "text": "오재원의 타구 우중간 깊습니다. 오재원은 배트를 던졌고 이 타구 아 3점 바로 다시 잡히네요."
+    },
+    {
+      "utterance_id": "clip_60_1",
+      "role": "analyst",
+      "speaker_name": "C",
+      "speaker_id": "3",
+      "start_sec": 457.81,
+      "end_sec": 458.701,
+      "text": "딱 이제 아웃 카운"
+    },
+    {
+      "utterance_id": "clip_61_1",
+      "role": "caster",
+      "speaker_name": "A",
+      "speaker_id": "1",
+      "start_sec": 458.891,
+      "end_sec": 459.421,
+      "text": "3개고요."
+    },
+    {
+      "utterance_id": "clip_61_2",
+      "role": "caster",
+      "speaker_name": "A",
+      "speaker_id": "1",
+      "start_sec": 460.171,
+      "end_sec": 461.841,
+      "text": "정대현 선수가 마운드에 올라왔습니다."
+    },
+    {
+      "utterance_id": "clip_62_1",
+      "role": "analyst",
+      "speaker_name": "C",
+      "speaker_id": "3",
+      "start_sec": 464.31,
+      "end_sec": 465.4,
+      "text": "오구 스윙 스트레이 아웃"
+    },
+    {
+      "utterance_id": "clip_62_2",
+      "role": "analyst",
+      "speaker_name": "C",
+      "speaker_id": "3",
+      "start_sec": 467.51,
+      "end_sec": 472.9,
+      "text": "끌어당긴 타구 1루수 몸으로 막아놓고 투수에게 터스 1루 1루에서 아웃."
+    },
+    {
+      "utterance_id": "clip_63_1",
+      "role": "analyst",
+      "speaker_name": "B",
+      "speaker_id": "2",
+      "start_sec": 473.91,
+      "end_sec": 477.83,
+      "text": "이현승 선수가 이제 두산의 마무리를 맡고 있고 이번 대회에서도 마무리를 맡고 있거든요."
+    },
+    {
+      "utterance_id": "clip_64_1",
+      "role": "analyst",
+      "speaker_name": "C",
+      "speaker_id": "3",
+      "start_sec": 480.05,
+      "end_sec": 484.08,
+      "text": "이구 땅볼 타구 3루수 쪽 파운 그리고 1루 1루에서"
+    },
+    {
+      "utterance_id": "clip_64_2",
+      "role": "analyst",
+      "speaker_name": "C",
+      "speaker_id": "3",
+      "start_sec": 484.81,
+      "end_sec": 485.52,
+      "text": "아웃입니다."
+    },
+    {
+      "utterance_id": "clip_65_1",
+      "role": "analyst",
+      "speaker_name": "C",
+      "speaker_id": "3",
+      "start_sec": 488.7,
+      "end_sec": 489.65,
+      "text": "구 회 초의 기적"
+    },
+    {
+      "utterance_id": "clip_66_1",
+      "role": "analyst",
+      "speaker_name": "C",
+      "speaker_id": "3",
+      "start_sec": 490.915,
+      "end_sec": 499.525,
+      "text": "십일월 십구 일 바로 이 날은 대한민국 야구 역사의 앞으로 영원히 남습니다. 도쿄돔의 기적 대한민국이 결승에 진출합니다."
+    },
+    {
+      "utterance_id": "clip_67_1",
+      "role": "analyst",
+      "speaker_name": "B",
+      "speaker_id": "2",
+      "start_sec": 500.075,
+      "end_sec": 502.785,
+      "text": "자 다른 경기보다도 훨씬 더 더 극적이고요."
+    },
+    {
+      "utterance_id": "clip_67_2",
+      "role": "analyst",
+      "speaker_name": "B",
+      "speaker_id": "2",
+      "start_sec": 503.455,
+      "end_sec": 505.985,
+      "text": "9회에 역전한다는 것이 정말 속이 시원합니다."
+    },
+    {
+      "utterance_id": "clip_68_1",
+      "role": "analyst",
+      "speaker_name": "B",
+      "speaker_id": "2",
+      "start_sec": 506.99,
+      "end_sec": 515.86,
+      "text": "네 안녕하세요 SBS 최혜림입니다. 더 많은 뉴스와 라이브 이벤트 보고 싶으시면 오른쪽을 눌러서 구독해 주시면 고맙겠습니다."
+    },
+    {
+      "utterance_id": "clip_69_1",
+      "role": "analyst",
+      "speaker_name": "B",
+      "speaker_id": "2",
+      "start_sec": 516.15,
+      "end_sec": 524.98,
+      "text": "또 저희 SBS 앱을 다운로드하시면 속보 알림도 빠르게 받아보실 수 있습니다. 항상 저희 SBS 뉴스를 시청해 주셔서 고맙습니다."
+    }
+  ]
+}

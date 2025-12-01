@@ -1,0 +1,652 @@
+[
+  {
+    "video_id": "clip1-1",
+    "segments": [
+      {
+        "role": "caster",
+        "start_sec": 16.929,
+        "end_sec": 22.039,
+        "text": "기적이 일어났습니다.",
+        "confidence": 0.9691
+      },
+      {
+        "role": "analyst",
+        "start_sec": 22.039,
+        "end_sec": 109.784,
+        "text": "9연승을 달리면서 7위에서 5위로 두 계단을 순위를 끌어올렸습니다. 군 전역 그리고 부상 복귀 이후에 4경기 등판을 해서 대단한 위력을 선보였습니다. 50개의 홈런, 외국인 선수 최다 홈런 기록을 경신을 하면서 홈런왕이 됐어 일 번 김준환 이번에 최원준 삼 번 박건우 사번 맷 데이비슨 오번에 권희동, 육번 이우성. 네 경기에서 세 경기 선발 등판했고 모두 던 것 같고 저도 이번에 9연승 하면서 선수들의 그런 모습에 좀 많이 배웠습니다. 그래서 앞으로 NC 다이노스는 이런 팀 컬러를 좀 계속 가질 수 있도록 어 그렇게 해야겠다 이런 생각도 좀 들었습니다. 쉽게 시즌을 보낸 것 같지는 않습니다. 정말 어렵게 올라온 만큼 에 또 뭐 즐기잔 말은 않겠습니다. 네 마지막이 언제 될지 모르겠지만 네 마지막까지 정말로 최선을 다해서 어 매일 경기 한 경기 한 경기 임하도록 하겠습니다. 어 포인트는 이제 후라도 선수가 몇 인닝을 던져주냐 거기서 이제 우리가 불펜을 어떻게 운영하느냐가 제일 중요할 것 같고 하여튼 어 지금 엔씨 시즌 마지막에 지금 흐름이 좋기 때문에 무조건 1차전에 끝낼 수 있고 2차전까지 가면 우리도 쉽지 않겠다 그런 생각을 갖고 있어서 1차전에 어떻게 해서든 끝낼 수 있도록 준비 잘하겠습니다.",
+        "confidence": 0.85438
+      }
+    ]
+  },
+  {
+    "video_id": "clip1-2",
+    "segments": [
+      {
+        "role": "caster",
+        "start_sec": 127.2,
+        "end_sec": 131.89,
+        "text": "포심과 투심을 또 섞어서 던지고 있고 걷어 올린 타구입니다.",
+        "confidence": 0.9337
+      },
+      {
+        "role": "analyst",
+        "start_sec": 131.92,
+        "end_sec": 135.31,
+        "text": "오른쪽 떨어지면서 안타 최원준 1루",
+        "confidence": 0.9337
+      }
+    ]
+  },
+  {
+    "video_id": "clip1-3",
+    "segments": [
+      {
+        "role": "caster",
+        "start_sec": 153.26,
+        "end_sec": 154.95,
+        "text": "이어서 4번 타자 맷 데이비슨",
+        "confidence": 0.932
+      },
+      {
+        "role": "analyst",
+        "start_sec": 168.946,
+        "end_sec": 170.196,
+        "text": "출발이 예사롭지 않은데요.",
+        "confidence": 0.9653
+      }
+    ]
+  },
+  {
+    "video_id": "clip1-4",
+    "segments": [
+      {
+        "role": "caster",
+        "start_sec": 191.43,
+        "end_sec": 192.78,
+        "text": "이닝은 이렇게 종료되고 있습니다.",
+        "confidence": 0.9298
+      }
+    ]
+  },
+  {
+    "video_id": "clip1-5",
+    "segments": [
+      {
+        "role": "caster",
+        "start_sec": 208.08,
+        "end_sec": 213.01,
+        "text": "바깥쪽 끝에 걸립니다. 루킹 삼진 패스트볼 144km",
+        "confidence": 0.7535
+      },
+      {
+        "role": "analyst",
+        "start_sec": 217.25,
+        "end_sec": 223.685,
+        "text": "그렇게 비트 속으로 쭉쭉 차고 들어가는 맛은 없어요. 그런데 완벽한 제구력을 가지고 김성윤 선수 꼼짝 못하게 만들",
+        "confidence": 0.9069
+      }
+    ]
+  },
+  {
+    "video_id": "clip1-6",
+    "segments": [
+      {
+        "role": "caster",
+        "start_sec": 227.695,
+        "end_sec": 231.065,
+        "text": "4구 몸쪽 공 당겼고 2타 하구 1루 박고 2루에",
+        "confidence": 0.7601
+      },
+      {
+        "role": "analyst",
+        "start_sec": 241.235,
+        "end_sec": 242.805,
+        "text": "아웃카운트로 물러나고 있습니다.",
+        "confidence": 0.8955
+      }
+    ]
+  },
+  {
+    "video_id": "clip1-7",
+    "segments": [
+      {
+        "role": "caster",
+        "start_sec": 248.22,
+        "end_sec": 253.19,
+        "text": "초구를 돌립니다. 왼쪽 좌익수 따라붙습니다. 멉니다. 담장을 직접 때립니다.",
+        "confidence": 0.9615
+      }
+    ]
+  },
+  {
+    "video_id": "clip1-8",
+    "segments": [
+      {
+        "role": "caster",
+        "start_sec": 265.5,
+        "end_sec": 273.49,
+        "text": "이성규 선수도 지금 살짝 미끄러지는 모습이 화면에 잡혔는데요. 원볼 오원석호철이 배트를 내려서 번트를 냅니다.",
+        "confidence": 0.4698
+      }
+    ]
+  },
+  {
+    "video_id": "clip1-9",
+    "segments": [
+      {
+        "role": "caster",
+        "start_sec": 295.42,
+        "end_sec": 297.59,
+        "text": "점수 2 대 0을 만들고 있는 NC다이노스",
+        "confidence": 0.7933
+      },
+      {
+        "role": "analyst",
+        "start_sec": 297.814,
+        "end_sec": 300.524,
+        "text": "그것은 디아즈 선수가 너무나 잘 처리해 줬네요.",
+        "confidence": 0.8027
+      }
+    ]
+  },
+  {
+    "video_id": "clip1-10",
+    "segments": [
+      {
+        "role": "caster",
+        "start_sec": 302.21,
+        "end_sec": 306.92,
+        "text": "그대로 몸을 기울이면서 송구를 했는데 지금 거의 뭐 자연 태그가 됐습니다.",
+        "confidence": 0.9762
+      }
+    ]
+  },
+  {
+    "video_id": "clip1-11",
+    "segments": [
+      {
+        "role": "caster",
+        "start_sec": 331.57,
+        "end_sec": 335.94,
+        "text": "앞선 주자가 움직일 수 없었습니다만 이렇게 움직입니다.",
+        "confidence": 0.9844
+      },
+      {
+        "role": "analyst",
+        "start_sec": 341.58,
+        "end_sec": 345.25,
+        "text": "강민호 타자들보다 느리니까 한 번만 쳐다봤다고 한다면 오지",
+        "confidence": 0.7249
+      }
+    ]
+  },
+  {
+    "video_id": "clip1-12",
+    "segments": [
+      {
+        "role": "caster",
+        "start_sec": 345.423,
+        "end_sec": 346.333,
+        "text": "했을 거예요.",
+        "confidence": 0.6371
+      },
+      {
+        "role": "analyst",
+        "start_sec": 346.333,
+        "end_sec": 382.26,
+        "text": "그런데 예 일곱 번째 공도 골라냅니다. 선두 타자 출루 다시 스타트 때렸고 후라도 잡고 앞선 주자 늦습니다. 일루 희생 번트의 효과는 낮습니다. 몸이 확실히 부드럽네요. 안 쳐다보니까 당연하죠. 그렇게 되는 겁니다.",
+        "confidence": 0.8171999999999999
+      }
+    ]
+  },
+  {
+    "video_id": "clip1-13",
+    "segments": [
+      {
+        "role": "caster",
+        "start_sec": 397.14,
+        "end_sec": 397.89,
+        "text": "바깥쪽 변하고",
+        "confidence": 0.9609
+      },
+      {
+        "role": "analyst",
+        "start_sec": 398.41,
+        "end_sec": 403.459,
+        "text": "바깥쪽도 빠른 것이 훨씬 낫고 계속 올라가잖아요.",
+        "confidence": 0.889
+      }
+    ]
+  },
+  {
+    "video_id": "clip1-14",
+    "segments": [
+      {
+        "role": "caster",
+        "start_sec": 404.209,
+        "end_sec": 405.539,
+        "text": "하나 더 스윙트 삼진",
+        "confidence": 0.4549
+      },
+      {
+        "role": "analyst",
+        "start_sec": 409.22,
+        "end_sec": 410.154,
+        "text": "그걸 관리를 잘하고",
+        "confidence": 0.9754
+      }
+    ]
+  },
+  {
+    "video_id": "clip1-15",
+    "segments": [
+      {
+        "role": "caster",
+        "start_sec": 434.835,
+        "end_sec": 442.805,
+        "text": "충분히 한 점은 또 들어올 수 있는 그런 상황이 되는데 낮은 존 걸치면서 스트라이",
+        "confidence": 0.7192
+      }
+    ]
+  },
+  {
+    "video_id": "clip1-16",
+    "segments": [
+      {
+        "role": "caster",
+        "start_sec": 447.63,
+        "end_sec": 451.44,
+        "text": "변하고 높은 존 들어왔습니다. 삼진 투 아웃",
+        "confidence": 0.8967
+      }
+    ]
+  },
+  {
+    "video_id": "clip1-17",
+    "segments": [
+      {
+        "role": "caster",
+        "start_sec": 459.191,
+        "end_sec": 465.141,
+        "text": "이재현의 타구 중견수 앞에 뚝 떨어집니다. 다 좋다라고 하잖아요. 네",
+        "confidence": 0.8754
+      },
+      {
+        "role": "analyst",
+        "start_sec": 484.3,
+        "end_sec": 487.39,
+        "text": "이길 수 있는 요건을 만들어 주고 내려간다는 거죠. 본인의",
+        "confidence": 0.9767
+      }
+    ]
+  },
+  {
+    "video_id": "clip1-18",
+    "segments": [
+      {
+        "role": "caster",
+        "start_sec": 527.255,
+        "end_sec": 530.365,
+        "text": "루위디아즈를 삼진 처리하는 데 성공하고 있는 구창모",
+        "confidence": 0.8031
+      },
+      {
+        "role": "analyst",
+        "start_sec": 534.78,
+        "end_sec": 536.7,
+        "text": "왼쪽 손목이 싹 그렇게 좋지 않은 모양",
+        "confidence": 0.9733
+      }
+    ]
+  },
+  {
+    "video_id": "clip1-19",
+    "segments": [
+      {
+        "role": "caster",
+        "start_sec": 537.09,
+        "end_sec": 543.82,
+        "text": "왼손을 한번 쥐었다 폈다 하고 있는데 몸 쪽 공 배 위쪽에 걸린 타구고 담장 바로 앞",
+        "confidence": 0.9103
+      },
+      {
+        "role": "analyst",
+        "start_sec": 545.135,
+        "end_sec": 548.185,
+        "text": "좌익수 바라봅니다. 넘어갑니다.",
+        "confidence": 0.9237
+      }
+    ]
+  },
+  {
+    "video_id": "clip1-20",
+    "segments": [
+      {
+        "role": "caster",
+        "start_sec": 553.24,
+        "end_sec": 554.59,
+        "text": "김형준의 솔로 홈런",
+        "confidence": 0.8881
+      },
+      {
+        "role": "analyst",
+        "start_sec": 559.71,
+        "end_sec": 599.92,
+        "text": "때렸고 투수 발 맞고 타구가 느려집니다. 주자 2명 배치 김형준 김형준 선수 때리기 전에 상당히 볼이 빠른 볼이 높았거든요. 예 그러다 보니까 완전히 점타가 되지 못했는데 결국은 이 타구가 담장 밖으로 넘어갔습니다. 자 이렇게 되면",
+        "confidence": 0.9030666666666667
+      }
+    ]
+  },
+  {
+    "video_id": "clip1-21",
+    "segments": [
+      {
+        "role": "caster",
+        "start_sec": 603.46,
+        "end_sec": 606.37,
+        "text": "최원준의 내 안타 최원준을 멀티 히트 게임",
+        "confidence": 0.8449
+      },
+      {
+        "role": "analyst",
+        "start_sec": 610.21,
+        "end_sec": 613.34,
+        "text": "어 스파이크에 맞았군요. 다행이네요.",
+        "confidence": 0.8614
+      }
+    ]
+  },
+  {
+    "video_id": "clip1-22",
+    "segments": [
+      {
+        "role": "caster",
+        "start_sec": 630.88,
+        "end_sec": 640.05,
+        "text": "아웃카운트는 하나 올라갑니다.",
+        "confidence": 0.9134
+      },
+      {
+        "role": "analyst",
+        "start_sec": 640.05,
+        "end_sec": 642.71,
+        "text": "메 데이비슨 4번 타자 박건우 선수가 5회에 지금 교체가 되고 있습니다. 볼카운트는 투 투",
+        "confidence": 0.76945
+      }
+    ]
+  },
+  {
+    "video_id": "clip1-23",
+    "segments": [
+      {
+        "role": "caster",
+        "start_sec": 673.75,
+        "end_sec": 679.44,
+        "text": "포수가 김정호 선수로 교체가 됐습니다.",
+        "confidence": 0.8851
+      },
+      {
+        "role": "analyst",
+        "start_sec": 679.44,
+        "end_sec": 687.7,
+        "text": "왼손이 지금 지워지지가 않습니다. 포수 김정호 선수가 저 손으로 지금 홈런을 때려냈단 말이에요.",
+        "confidence": 0.8709
+      }
+    ]
+  },
+  {
+    "video_id": "clip1-24",
+    "segments": [
+      {
+        "role": "caster",
+        "start_sec": 691.955,
+        "end_sec": 698.645,
+        "text": "5구 끌어당긴 타자 삼루수 김휘집 의도적인 바운드 송구로 첫 번째 아웃카운트를 만들어 냅니다.",
+        "confidence": 0.7976
+      },
+      {
+        "role": "analyst",
+        "start_sec": 710.04,
+        "end_sec": 712.05,
+        "text": "심적으로 다운이 돼 버리는 거죠. 이렇게 되면",
+        "confidence": 0.9418
+      }
+    ]
+  },
+  {
+    "video_id": "clip1-25",
+    "segments": [
+      {
+        "role": "caster",
+        "start_sec": 728.68,
+        "end_sec": 732.37,
+        "text": "삼성 라이온즈 이 가을의 첫 득점 이성규의 솔로 홈런.",
+        "confidence": 0.7768
+      }
+    ]
+  },
+  {
+    "video_id": "clip1-26",
+    "segments": [
+      {
+        "role": "caster",
+        "start_sec": 742.84,
+        "end_sec": 750.35,
+        "text": "이성규 선수는 김휘집 선수에게 안 잡히는 방법을 확실하게 알고 있었습니다. 그냥 넘겨버렸습니다.",
+        "confidence": 0.9298
+      },
+      {
+        "role": "analyst",
+        "start_sec": 755.61,
+        "end_sec": 757.08,
+        "text": "선두 타자예요. 거기에다가",
+        "confidence": 0.9285
+      }
+    ]
+  },
+  {
+    "video_id": "clip1-27",
+    "segments": [
+      {
+        "role": "caster",
+        "start_sec": 782.82,
+        "end_sec": 787.39,
+        "text": "김성윤의 2025 가을 야구 첫 안타 세 번째 타석에서 터져 나옵니다.",
+        "confidence": 0.9539
+      },
+      {
+        "role": "analyst",
+        "start_sec": 796.83,
+        "end_sec": 805.96,
+        "text": "너무 성급하게 지금 승부에 들어갔단 말이에요. 그런데 오늘 NC 다이노스가 전체적으로 야구가 지금 되고 있기 때문에 이 잘 맞은 타구가 또 야수 정면에 갔어요.",
+        "confidence": 0.8812
+      }
+    ]
+  },
+  {
+    "video_id": "clip1-28",
+    "segments": [
+      {
+        "role": "caster",
+        "start_sec": 821.709,
+        "end_sec": 829.959,
+        "text": "오랜만에 돌아온 가을야구 무대에서 6인닝 1 실점 건강한 구창모는 어떤 투수인지 우리 모두가 알게 됩니다.",
+        "confidence": 0.9187
+      }
+    ]
+  },
+  {
+    "video_id": "clip1-29",
+    "segments": [
+      {
+        "role": "caster",
+        "start_sec": 881.34,
+        "end_sec": 882.19,
+        "text": "이 공이 볼입니다.",
+        "confidence": 0.8403
+      }
+    ]
+  },
+  {
+    "video_id": "clip1-30",
+    "segments": [
+      {
+        "role": "caster",
+        "start_sec": 898.79,
+        "end_sec": 902.04,
+        "text": "못 맞는 볼 주자가 만루가 되겠습니다.",
+        "confidence": 0.896
+      }
+    ]
+  },
+  {
+    "video_id": "clip1-31",
+    "segments": [
+      {
+        "role": "caster",
+        "start_sec": 905.73,
+        "end_sec": 906.4,
+        "text": "원바운드 보우",
+        "confidence": 0.6042
+      },
+      {
+        "role": "analyst",
+        "start_sec": 909.77,
+        "end_sec": 911.56,
+        "text": "전체적으로 스피트도 나지 않고",
+        "confidence": 0.9783
+      }
+    ]
+  },
+  {
+    "video_id": "clip1-32",
+    "segments": [
+      {
+        "role": "caster",
+        "start_sec": 944.7,
+        "end_sec": 951.57,
+        "text": "김현수 올 시즌 4승 3패 21홀드 기록을 하고 있는데 천재환 선수가 우익수에 투입이 됐습니다.",
+        "confidence": 0.5855
+      }
+    ]
+  },
+  {
+    "video_id": "clip1-33",
+    "segments": [
+      {
+        "role": "caster",
+        "start_sec": 953.85,
+        "end_sec": 955.0,
+        "text": "결국 참아내지 못합니다.",
+        "confidence": 0.8267
+      },
+      {
+        "role": "analyst",
+        "start_sec": 955.03,
+        "end_sec": 960.442,
+        "text": "스윙삼진 마지막 거비를 결국은 김영웅 선수가 넘지를 못했습니다.",
+        "confidence": 0.82585
+      }
+    ]
+  },
+  {
+    "video_id": "clip1-34",
+    "segments": [
+      {
+        "role": "caster",
+        "start_sec": 971.77,
+        "end_sec": 976.18,
+        "text": "82와 3분의 1이닝 소화를 하면서 13홀드에 2 세이브 있습니다.",
+        "confidence": 0.8175
+      },
+      {
+        "role": "analyst",
+        "start_sec": 976.31,
+        "end_sec": 1015.21,
+        "text": "1.45의 평균 자책점. 큰 무대에 등판에서 세 타자 상대로 아웃 카운트 3개를 뺏어 옵니다. 이 큰 경기 경험이 별로 없기 때문에 중요한 상황에서 많지 않았기 때문에 첫 타자가 상당히 중요했었는데",
+        "confidence": 0.889475
+      }
+    ]
+  },
+  {
+    "video_id": "clip1-35",
+    "segments": [
+      {
+        "role": "caster",
+        "start_sec": 1018.58,
+        "end_sec": 1023.79,
+        "text": "류지혁 선수의 이탈 이후에 마무리를 맡으면서 6 세이브를 기록했습니다.",
+        "confidence": 0.7778
+      },
+      {
+        "role": "analyst",
+        "start_sec": 1023.79,
+        "end_sec": 1065.07,
+        "text": "홀드도 20개를 챙긴 투 투에서 끌어당긴 타구 라인 드라이브 아웃 자 그리고 돌아옵니다. 어 이렇게 아웃 카운트가 2개가 잡힙니다. 한 번에 바로 처리를 했다고 환불이 되지 않고 처리했다고 한다면 아웃을 시킬 수 있었습니다만 이게 아웃드가 앞에서 튀어 오르면서 떨어뜨렸어요. 한 번 그러면서 김준환 선수가 스텝을 하지 못하고 노스텝으로 그냥 송구를 하다 보니까 송구가 강하지를 못했어요. 욕심을 좀 내다보니까 예 못 참고 나갔어요. 그때",
+        "confidence": 0.8070166666666667
+      }
+    ]
+  },
+  {
+    "video_id": "clip1-36",
+    "segments": [
+      {
+        "role": "caster",
+        "start_sec": 1073.42,
+        "end_sec": 1074.93,
+        "text": "가운드가 됐고 2루 먼저",
+        "confidence": 0.987
+      },
+      {
+        "role": "analyst",
+        "start_sec": 1085.38,
+        "end_sec": 1091.87,
+        "text": "볼넷입니다. 노하우 싸움했습니다.",
+        "confidence": 0.6629
+      }
+    ]
+  },
+  {
+    "video_id": "clip1-37",
+    "segments": [
+      {
+        "role": "caster",
+        "start_sec": 1095.62,
+        "end_sec": 1098.77,
+        "text": "앞선 병살타에 대한 아쉬움이 더 짙어질 수밖에 없는",
+        "confidence": 0.9783
+      },
+      {
+        "role": "analyst",
+        "start_sec": 1103.91,
+        "end_sec": 1106.16,
+        "text": "다시 갑니다. 바깥쪽 볼입니다.",
+        "confidence": 0.9117
+      }
+    ]
+  },
+  {
+    "video_id": "clip1-38",
+    "segments": [
+      {
+        "role": "caster",
+        "start_sec": 1111.14,
+        "end_sec": 1117.15,
+        "text": "스윙트 삼진 경기 끝 가을에도 계속해서 이어지고 있는 다이노스의 포효입니다.",
+        "confidence": 0.6753
+      }
+    ]
+  },
+  {
+    "video_id": "clip1-39",
+    "segments": [
+      {
+        "role": "caster",
+        "start_sec": 1127.143,
+        "end_sec": 1131.753,
+        "text": "스코어 4 대 1 NC 다이노스가 내일을 열었습니다.",
+        "confidence": 0.7887
+      }
+    ]
+  }
+]
