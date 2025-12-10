@@ -70,7 +70,7 @@
 # 1. 프로젝트 개요
 
 ### 프로젝트 명
-**⚾B<span style="color:red;">AI</span>S⚾**
+**⚾B<span>$\textsf{\color{red}AI}$</span>S⚾**
 > BASEBALL AI SELECT 
 
 **“편파 해설 없이, 야구를 더 쉽게”**
