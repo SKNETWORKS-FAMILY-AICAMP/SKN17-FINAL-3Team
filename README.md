@@ -80,17 +80,21 @@
  <br>
  
 ## 프로젝트 배경
+<br>
+
+**1. 프로 야구 입문 장벽**
+
 <table>  
   <tbody>
    <tr>
-      <td> <img alt="Image" src=""> </td>
-      <td> <img alt="Image" src="https://github.com/user-attachments/assets/12a3fd04-3e0c-4982-a7d3-2118d1676ead"> </td>
+      <td> <img width="830" height="762" alt="Image" src="https://github.com/user-attachments/assets/f69ccfd2-44bd-4e73-bf5d-bfcc30d14f00" /> </td>
+      <td> <img width="978" height="447" alt="Image" src="https://github.com/user-attachments/assets/e0b93f1e-5c9c-4cd5-b011-e5064b599836" /> </td>
+      <td> <img width="1125" height="616" alt="Image" src="https://github.com/user-attachments/assets/7d897f73-84d5-4135-8b20-62aed1143590" /> </td>
     </tr>
   </tbody>
 </table>  
+<br>
 
-
-**1. 프로 야구 입문 장벽**
 - 프로 야구에 관심이 있지만 어려운 야구 용어와 복잡한 야구 규칙으로 입문 어렵
 - 설문 조사 결과, 야구 입문 장벽의 이유로 **어려운 용어**와 **복잡한 규칙**이 제일 큰 비중을 차지
 - 해설위원에게 바라는 점으로 **초보자들도 이해하기 쉽게 풀어서 설명해줬으면 좋겠다**는 답변 다수 
@@ -98,17 +102,20 @@
 
 <br>
 
+**2. 해설위원의 역할**
+
 <table>  
   <tbody>
    <tr>
-      <td> <img alt="Image" src="https://github.com/user-attachments/assets/e880d887-75e4-4579-a0dd-f093c8384af7"> </td>
-      <td> <img alt="Image" src="https://github.com/user-attachments/assets/12a3fd04-3e0c-4982-a7d3-2118d1676ead"> </td>
+      <td> <img width="760" height="727" alt="Image" src="https://github.com/user-attachments/assets/b6f9a938-bac6-4d97-b61e-e4b64b0ac7dd" /> </td>
+      <td> <img width="1147" height="622" alt="Image" src="https://github.com/user-attachments/assets/fa637358-3d14-4887-8cc5-9cce560a0dfd" />
+ </td>
     </tr>
   </tbody>
 </table>  
 
+<br>
 
-**2. 해설위원의 역할**
 - 해설위원의 역할은 경기 이해도와 몰입도를 높이는데 효과적
 - 팬 맞춤 해설에 대한 욕구 증가
 - 하지만, 수준 떨어지는 해설에 대한 불만 끊임없이 야기
@@ -120,7 +127,7 @@
 <table>  
   <tbody>
    <tr>
-      <td> <img alt="Image" src="https://github.com/user-attachments/assets/b975715c-e7d0-4217-b708-6df43a59093a" width="500px;" /> </td>
+      <td> <img width="1311" height="625" alt="Image" src="https://github.com/user-attachments/assets/fcec71e0-4f63-4c6d-b50b-5fcd7fdf1a58" /> </td>
     </tr>
   </tbody>
 </table>  
@@ -148,7 +155,7 @@
 #  2. 프로젝트 기획
 
 ### WBS
-![image](https://github.com/user-attachments/assets/5c2b0f10-e901-4541-9090-600982fafccd)
+<img width="1543" height="782" alt="Image" src="https://github.com/user-attachments/assets/e162d2a9-843c-47f0-a249-082c4115d9f5" />
 
 <details>
  <summary>WBS 바로가기</summary>
@@ -210,7 +217,8 @@
 # 4. 시스템 아키텍처
 
 ### 4.1 시스템 아키텍처
-![시스템 아키텍처](image.png)
+<img width="637" height="354" alt="Image" src="https://github.com/user-attachments/assets/4f7cede5-2473-4c85-8edb-5ede692f5fa1" />
+
 <br>
 
 ### 4.2 주요 서비스 플로우
@@ -278,7 +286,7 @@
 
 
 **[ERD]**
-![ERD](image-1.png)
+<img width="1792" height="868" alt="Image" src="https://github.com/user-attachments/assets/cad13f02-9bd8-4b51-851e-10b0f4a8ffb0" />
 
 
 <details>
