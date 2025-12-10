@@ -58,7 +58,7 @@
 - [4. 시스템 아키텍처](#4-시스템-아키텍처)
 - [5. 기능 및 화면 설계](#5-기능-및-화면-설계)
 - [6. 데이터 설계](#6-데이터-설계)
-- [7. AI-설계](#7-ai-설계)
+- [7. AI 설계](#7-ai-설계)
 - [8. 결론](#8-결론)
 - [9. 향후 계획 및 보완점](#9-향후-계획-및-보완점)
 - [10. 회고](#10-회고)
@@ -80,17 +80,21 @@
  <br>
  
 ## 프로젝트 배경
+<br>
+
+**1. 프로 야구 입문 장벽**
+
 <table>  
   <tbody>
    <tr>
-      <td> <img alt="Image" src="https://github.com/user-attachments/assets/e880d887-75e4-4579-a0dd-f093c8384af7"> </td>
-      <td> <img alt="Image" src="https://github.com/user-attachments/assets/12a3fd04-3e0c-4982-a7d3-2118d1676ead"> </td>
+      <td> <img width="830" height="762" alt="Image" src="https://github.com/user-attachments/assets/f69ccfd2-44bd-4e73-bf5d-bfcc30d14f00" /> </td>
+      <td> <img width="978" height="447" alt="Image" src="https://github.com/user-attachments/assets/e0b93f1e-5c9c-4cd5-b011-e5064b599836" /> </td>
+      <td> <img width="1125" height="616" alt="Image" src="https://github.com/user-attachments/assets/7d897f73-84d5-4135-8b20-62aed1143590" /> </td>
     </tr>
   </tbody>
 </table>  
+<br>
 
-
-**1. 프로 야구 입문 장벽**
 - 프로 야구에 관심이 있지만 어려운 야구 용어와 복잡한 야구 규칙으로 입문 어렵
 - 설문 조사 결과, 야구 입문 장벽의 이유로 **어려운 용어**와 **복잡한 규칙**이 제일 큰 비중을 차지
 - 해설위원에게 바라는 점으로 **초보자들도 이해하기 쉽게 풀어서 설명해줬으면 좋겠다**는 답변 다수 
@@ -98,17 +102,20 @@
 
 <br>
 
+**2. 해설위원의 역할**
+
 <table>  
   <tbody>
    <tr>
-      <td> <img alt="Image" src="https://github.com/user-attachments/assets/e880d887-75e4-4579-a0dd-f093c8384af7"> </td>
-      <td> <img alt="Image" src="https://github.com/user-attachments/assets/12a3fd04-3e0c-4982-a7d3-2118d1676ead"> </td>
+      <td> <img width="760" height="727" alt="Image" src="https://github.com/user-attachments/assets/b6f9a938-bac6-4d97-b61e-e4b64b0ac7dd" /> </td>
+      <td> <img width="1147" height="622" alt="Image" src="https://github.com/user-attachments/assets/fa637358-3d14-4887-8cc5-9cce560a0dfd" />
+ </td>
     </tr>
   </tbody>
 </table>  
 
+<br>
 
-**2. 해설위원의 역할**
 - 해설위원의 역할은 경기 이해도와 몰입도를 높이는데 효과적
 - 팬 맞춤 해설에 대한 욕구 증가
 - 하지만, 수준 떨어지는 해설에 대한 불만 끊임없이 야기
@@ -120,7 +127,7 @@
 <table>  
   <tbody>
    <tr>
-      <td> <img alt="Image" src="https://github.com/user-attachments/assets/b975715c-e7d0-4217-b708-6df43a59093a" width="500px;" /> </td>
+      <td> <img width="1311" height="625" alt="Image" src="https://github.com/user-attachments/assets/fcec71e0-4f63-4c6d-b50b-5fcd7fdf1a58" /> </td>
     </tr>
   </tbody>
 </table>  
@@ -148,12 +155,12 @@
 #  2. 프로젝트 기획
 
 ### WBS
-![image](https://github.com/user-attachments/assets/5c2b0f10-e901-4541-9090-600982fafccd)
+<img width="1543" height="782" alt="Image" src="https://github.com/user-attachments/assets/e162d2a9-843c-47f0-a249-082c4115d9f5" />
 
 <details>
  <summary>WBS 바로가기</summary>
 
- [WBS 바로가기 (PDF)](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN17-FINAL-3Team/blob/main/01_docs/WBS.pdf)
+ [WBS 바로가기 (PDF)](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN17-FINAL-3Team/blob/main/01_docs/1.WBS.pdf)
 
 </details>
 
@@ -165,7 +172,7 @@
 <details>
  <summary>프로젝트 기획서 바로가기</summary>
 
- [프로젝트 기획서 바로가기 (PDF)](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN17-FINAL-3Team/blob/main/01_docs/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EA%B8%B0%ED%9A%8D%EC%84%9C.pdf)
+ [프로젝트 기획서 바로가기 (PDF)](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN17-FINAL-3Team/blob/main/01_docs/2.%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EA%B8%B0%ED%9A%8D%EC%84%9C.pdf)
 
 </details>
 
@@ -210,7 +217,8 @@
 # 4. 시스템 아키텍처
 
 ### 4.1 시스템 아키텍처
-![시스템 아키텍처](image.png)
+<img width="637" height="354" alt="Image" src="https://github.com/user-attachments/assets/4f7cede5-2473-4c85-8edb-5ede692f5fa1" />
+
 <br>
 
 ### 4.2 주요 서비스 플로우
@@ -225,28 +233,37 @@
 
 ### 5.1 시나리오 설계
 
-[시나리오 설계서 바로가기 (PDF)](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN17-FINAL-3Team/blob/main/01_docs/WBS.pdf)
+[시나리오 설계서 바로가기 (PDF)](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN17-FINAL-3Team/blob/main/01_docs/4.%EC%8B%9C%EB%82%98%EB%A6%AC%EC%98%A4%20%EC%84%A4%EA%B3%84%EC%84%9C.pdf)
 
 <details>
  <summary>회원 정보 관리</summary>
+ <img width="1188" height="706" alt="Image" src="https://github.com/user-attachments/assets/31be7950-d341-421c-800c-42be1580b8b5" />
+ <br>
+ <img width="1192" height="622" alt="Image" src="https://github.com/user-attachments/assets/9429bb56-583e-4e69-af3c-96fb43a270a3" />
+ <br>
+ <img width="1192" height="572" alt="Image" src="https://github.com/user-attachments/assets/a89cf5be-74bd-4c0d-b69b-60318aa4e866" />
  
 
 </details>
 
 <details>
  <summary>선호 구단 선택</summary>
+ <img width="1192" height="781" alt="Image" src="https://github.com/user-attachments/assets/aa10371a-db0d-48fe-8d0b-30fd7503b8ee" />
  
-
 </details>
 
 <details>
  <summary>구독</summary>
+ <img width="996" height="777" alt="Image" src="https://github.com/user-attachments/assets/91f6217e-0b73-4e09-bc14-c26525b591bf" />
  
 
 </details>
 
 <details>
  <summary>영상 시청</summary>
+ <img width="992" height="536" alt="Image" src="https://github.com/user-attachments/assets/aa96e0a1-2d2b-4059-a38a-afe1531ff0b5" />
+ <br>
+ <img width="998" height="457" alt="Image" src="https://github.com/user-attachments/assets/677f9571-d2de-4a7b-99c9-5b96862cdd67" />
 
 
 </details>
@@ -255,7 +272,7 @@
 
 ### 5.2 화면 설계
 
-[화면설계서 자세히 보러가기 (PDF)](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN09-FINAL-2Team/blob/main/docs/9%EA%B8%B0-2%ED%8C%80_%ED%99%94%EB%A9%B4%20%EC%84%A4%EA%B3%84%EC%84%9C.pdf)
+[화면설계서 자세히 보러가기 (PDF)](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN17-FINAL-3Team/blob/main/01_docs/5.%ED%99%94%EB%A9%B4%EC%84%A4%EA%B3%84%EC%84%9C.pdf)
 
 <details>
  <summary>화면 설계서</summary>
@@ -269,7 +286,7 @@
 
 
 **[ERD]**
-![ERD](image-1.png)
+<img width="1792" height="868" alt="Image" src="https://github.com/user-attachments/assets/cad13f02-9bd8-4b51-851e-10b0f4a8ffb0" />
 
 
 <details>
@@ -278,7 +295,10 @@
 
 </details>
 
-[데이터 전처리 결과서 자세히 보러가기 (PDF)](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN09-FINAL-2Team/blob/main/docs/9%EA%B8%B0-2%ED%8C%80_%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%A0%84%EC%B2%98%EB%A6%AC-%EA%B2%B0%EA%B3%BC%EC%84%9C.pdf)
+[RAG 데이터 전처리 결과서 자세히 보러가기 (PDF)](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN17-FINAL-3Team/blob/main/01_docs/6.RAG%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%A0%84%EC%B2%98%EB%A6%AC%20%EA%B2%B0%EA%B3%BC%EC%84%9C.pdf)
+<br>
+
+[파인튜닝 데이터 전처리 결과서 자세히 보러가기 (PDF)](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN17-FINAL-3Team/blob/main/01_docs/7.%ED%8C%8C%EC%9D%B8%ED%8A%9C%EB%8B%9D%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%A0%84%EC%B2%98%EB%A6%AC%20%EA%B2%B0%EA%B3%BC%EC%84%9C.pdf)
 
 <br>
 <br>
@@ -300,7 +320,7 @@
 
 </details>
 
-[모델 테스트 계획 및 결과 보고서 자세히 보러가기 (PDF)](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN09-FINAL-2Team/blob/main/docs/9%EA%B8%B0-2%ED%8C%80_%EB%AA%A8%EB%8D%B8%20%ED%85%8C%EC%8A%A4%ED%8A%B8%20%EA%B3%84%ED%9A%8D%20%EB%B0%8F%20%EA%B2%B0%EA%B3%BC%20%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf)
+[모델 테스트 계획 및 결과 보고서 자세히 보러가기 (PDF)](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN17-FINAL-3Team/blob/main/01_docs/8.%EB%AA%A8%EB%8D%B8%20%ED%85%8C%EC%8A%A4%ED%8A%B8%20%EA%B3%84%ED%9A%8D%20%EB%B0%8F%20%EA%B2%B0%EA%B3%BC%20%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf)
 
 
 <br>
@@ -312,7 +332,7 @@
 
 </details>
 
-[인공지능 학습 결과서 자세히 보기 (PDF)](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN09-FINAL-2Team/blob/main/docs/9%EA%B8%B0-2%ED%8C%80_%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%20%ED%95%99%EC%8A%B5%20%EA%B2%B0%EA%B3%BC%EC%84%9C.pdf)
+[인공지능 학습 결과서 자세히 보기 (PDF)](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN17-FINAL-3Team/blob/main/01_docs/9.%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%20%ED%95%99%EC%8A%B5%20%EA%B2%B0%EA%B3%BC%EC%84%9C.pdf)
 
 <br>
 
@@ -330,7 +350,7 @@
 
 </details>
 
-[시스템 테스트 계획 및 결과 보고서 자세히 보러가기 (PDF)](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN09-FINAL-2Team/blob/main/docs/9%EA%B8%B0-2%ED%8C%80_%EC%8B%9C%EC%8A%A4%ED%85%9C%20%ED%85%8C%EC%8A%A4%ED%8A%B8%20%EA%B3%84%ED%9A%8D%20%EB%B0%8F%20%EA%B2%B0%EA%B3%BC%EC%84%9C.pdf)
+[시스템 테스트 계획 및 결과 보고서 자세히 보러가기 (PDF)]()
 
 <br>
 <br>
