@@ -83,8 +83,8 @@
 <br>
 
 ### 1. 프로 야구 입문 장벽
-
-<img width="730" height="662" alt="Image" src="https://github.com/user-attachments/assets/f69ccfd2-44bd-4e73-bf5d-bfcc30d14f00" /> <br>
+<p align="center">
+<img width="730" height="662" alt="Image" src="https://github.com/user-attachments/assets/f69ccfd2-44bd-4e73-bf5d-bfcc30d14f00" /> </p> <br>
 [출처 : <a href="https://www.civicnews.com/news/articleView.html?idxno=34373">영어 약자로 된 야구 용어 남발...신규 야구 팬 유입 막는 걸림돌 될 수 있어</a>]
 
 <br>
@@ -125,7 +125,7 @@
 
 <br>
 
-<img width="1047" height="522" alt="Image" src="https://github.com/user-attachments/assets/fa637358-3d14-4887-8cc5-9cce560a0dfd" /> <br>
+<img width="947" height="422" alt="Image" src="https://github.com/user-attachments/assets/fa637358-3d14-4887-8cc5-9cce560a0dfd" /> <br>
 [출처:2025년 Team Basis 자체 설문조사(Google Forms, n=65)]
  
 
@@ -139,7 +139,7 @@
 <table>  
   <tbody>
    <tr>
-      <td> <img width="1211" height="525" alt="Image" src="https://github.com/user-attachments/assets/fcec71e0-4f63-4c6d-b50b-5fcd7fdf1a58" /> </td>
+      <td> <img width="1011" height="325" alt="Image" src="https://github.com/user-attachments/assets/fcec71e0-4f63-4c6d-b50b-5fcd7fdf1a58" /> </td>
     </tr>
   </tbody>
 </table>
@@ -299,7 +299,8 @@
 
 <details>
  <summary>데이터 전처리 결과서 </summary>
- [RAG 데이터 전처리 결과서 자세히 보러가기 (PDF)](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN17-FINAL-3Team/blob/main/01_docs/6.RAG%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%A0%84%EC%B2%98%EB%A6%AC%20%EA%B2%B0%EA%B3%BC%EC%84%9C.pdf)
+
+[RAG 데이터 전처리 결과서 자세히 보러가기 (PDF)](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN17-FINAL-3Team/blob/main/01_docs/6.RAG%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%A0%84%EC%B2%98%EB%A6%AC%20%EA%B2%B0%EA%B3%BC%EC%84%9C.pdf)
 
 <br>
 
@@ -337,9 +338,9 @@
 <details>
  <summary>AI 학습 결과</summary>
  <img width="748" height="506" alt="Image" src="https://github.com/user-attachments/assets/339033fb-38fe-4d3a-bada-cd0313642c19" /> <br>
- <img width="742" height="510" alt="Image" src="https://github.com/user-attachments/ assets/cbae8a62-6f3e-49e9-a485-51313a901539" /> <br>
- <img width="745" height="506" alt="Image" src="https://github.com/user-attachments/ assets/d5dc9bc9-0581-408d-91e8-b266e8b0bdcb" /> <br>
- <img width="355" height="322" alt="Image" src="https://github.com/user-attachments/ assets/f9b5f291-4def-486a-8140-65627ce0da45" />
+ <img width="742" height="510" alt="Image" src="https://github.com/user-attachments/assets/a43faae5-c68c-4984-af99-68e01a55dc88" /> <br>
+ <img width="745" height="506" alt="Image" src="https://github.com/user-attachments/assets/f013556b-616b-45fe-b477-a2c3b86641de" /> <br>
+ <img width="355" height="322" alt="Image" src="https://github.com/user-attachments/assets/adb10f76-b2f6-4db3-9c6e-562718bbb34f" />
  
 </details>
 
