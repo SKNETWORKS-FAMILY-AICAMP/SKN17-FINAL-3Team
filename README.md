@@ -85,11 +85,13 @@
 **1. 프로 야구 입문 장벽**
 
 <img width="830" height="762" alt="Image" src="https://github.com/user-attachments/assets/f69ccfd2-44bd-4e73-bf5d-bfcc30d14f00" /> <br>
-<a href="https://www.civicnews.com/news/articleView.html?idxno=34373">영어 약자로 된 야구 용어 남발...</a>
+[출처 : <a href="https://www.civicnews.com/news/articleView.html?idxno=34373">영어 약자로 된 야구 용어 남발...신규 야구 팬 유입 막는 걸림돌 될 수 있어</a>]
 
 <br>
 
 - 프로 야구에 관심이 있지만 어려운 야구 용어와 복잡한 야구 규칙으로 입문 어렵
+
+<br>
 
 <table>  
   <tbody>
@@ -98,7 +100,7 @@
       <td> <img width="1125" height="616" alt="Image" src="https://github.com/user-attachments/assets/7d897f73-84d5-4135-8b20-62aed1143590" /> </td>
     </tr>
   </tbody>
-</table> 
+</table> <br>
 [출처:2025년 Team Basis 자체 설문조사(Google Forms, n=65)]
 
 <br>
@@ -110,8 +112,9 @@
 <br>
 
 **2. 해설위원의 역할**
+
 <img width="760" height="727" alt="Image" src="https://github.com/user-attachments/assets/b6f9a938-bac6-4d97-b61e-e4b64b0ac7dd" /> <br>
-<a href="https://sports.news.nate.com/view/20250513n02348">영어 수준 떨어지는 야구해설, 언제까지 참고 들어야 하나</a>
+[출처 : <a href="https://sports.news.nate.com/view/20250513n02348">영어 수준 떨어지는 야구해설, 언제까지 참고 들어야 하나</a>]
 
 <br>
 
@@ -138,7 +141,7 @@
       <td> <img width="1311" height="625" alt="Image" src="https://github.com/user-attachments/assets/fcec71e0-4f63-4c6d-b50b-5fcd7fdf1a58" /> </td>
     </tr>
   </tbody>
-</table>  
+</table> <br>
 [출처:2025년 Team Basis 자체 설문조사(Google Forms, n=65)]
 
 <br>
