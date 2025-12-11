@@ -114,7 +114,8 @@
 
 ### 2. 해설위원의 역할
 
-<img width="660" height="627" alt="Image" src="https://github.com/user-attachments/assets/b6f9a938-bac6-4d97-b61e-e4b64b0ac7dd" /> <br>
+<p align="center">
+<img width="660" height="627" alt="Image" src="https://github.com/user-attachments/assets/b6f9a938-bac6-4d97-b61e-e4b64b0ac7dd" /> </p> <br>
 [출처 : <a href="https://sports.news.nate.com/view/20250513n02348">영어 수준 떨어지는 야구해설, 언제까지 참고 들어야 하나</a>]
 
 <br>
@@ -139,7 +140,7 @@
 <table>  
   <tbody>
    <tr>
-      <td> <img width="1011" height="325" alt="Image" src="https://github.com/user-attachments/assets/fcec71e0-4f63-4c6d-b50b-5fcd7fdf1a58" /> </td>
+      <td> <img width="1211" height="525" alt="Image" src="https://github.com/user-attachments/assets/fcec71e0-4f63-4c6d-b50b-5fcd7fdf1a58" /> </td>
     </tr>
   </tbody>
 </table>
@@ -302,8 +303,6 @@
 
 [RAG 데이터 전처리 결과서 자세히 보러가기 (PDF)](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN17-FINAL-3Team/blob/main/01_docs/6.RAG%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%A0%84%EC%B2%98%EB%A6%AC%20%EA%B2%B0%EA%B3%BC%EC%84%9C.pdf)
 
-<br>
-
 [파인튜닝 데이터 전처리 결과서 자세히 보러가기 (PDF)](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN17-FINAL-3Team/blob/main/01_docs/7.%ED%8C%8C%EC%9D%B8%ED%8A%9C%EB%8B%9D%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%A0%84%EC%B2%98%EB%A6%AC%20%EA%B2%B0%EA%B3%BC%EC%84%9C.pdf)
 
 </details>
@@ -442,12 +441,6 @@
 ### 6) 결제 및 수익화 시스템 개선
 - 카카오페이만 가능한 현재의 결제 수단 → 네이버페이, 카드 결제 등 결제 수단 다양화 
 - 유료 버전에 경기 분석 리포츠 제공 등 부가 서비스 확장 
-
-
-
-### 고도화 방향 - 편파,트래픽 관리(최적화), 결제 시스템 추가, 저장할 때 영상 압축, 웹 페이지 로딩 시간 개선, 다른 스포츠 확장
-
-
 
 
 # 10. 회고
