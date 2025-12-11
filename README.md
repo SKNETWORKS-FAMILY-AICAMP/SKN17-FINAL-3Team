@@ -100,9 +100,10 @@
       <td> <img width="1125" height="616" alt="Image" src="https://github.com/user-attachments/assets/7d897f73-84d5-4135-8b20-62aed1143590" /> </td>
     </tr>
   </tbody>
-</table> <br>
+</table>
 [출처:2025년 Team Basis 자체 설문조사(Google Forms, n=65)]
 
+<br>
 <br>
 
 - 설문 조사 결과, 야구 입문 장벽의 이유로 **어려운 용어**와 **복잡한 규칙**이 제일 큰 비중을 차지
@@ -141,9 +142,10 @@
       <td> <img width="1311" height="625" alt="Image" src="https://github.com/user-attachments/assets/fcec71e0-4f63-4c6d-b50b-5fcd7fdf1a58" /> </td>
     </tr>
   </tbody>
-</table> <br>
+</table>
 [출처:2025년 Team Basis 자체 설문조사(Google Forms, n=65)]
 
+<br>
 <br>
 
 - 국내외에 AI 해설과 관련된 서비스 전무
