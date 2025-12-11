@@ -39,12 +39,12 @@
       </td>
       </tr>
     <tr>
-      <td align="center"><a href="https://github.com/alswhitetiger"><div align=center>김민균</div></a></td>
-      <td align="center"><a href="https://github.com/use08168"><div align=center>김준협</div></a></td>
-      <td align="center"><a href="https://github.com/minjeon"><div align=center>박민정</div></a></td>
-      <td align="center"><a href="https://github.com/mylee99125"><div align=center>이민영</div></a></td>
-      <td align="center"><a href="https://github.com/uii42"><div align=center>정의중</div></a></td>
-      <td align="center"><a href="https://github.com/SEHEE-8546"><div align=center>조세희</div></a></td>
+      <td align="center"><a href="https://github.com/alswhitetiger"><div align=center>@alswhitetiger</div></a></td>
+      <td align="center"><a href="https://github.com/use08168"><div align=center>@use08168</div></a></td>
+      <td align="center"><a href="https://github.com/minjeon"><div align=center>@minjeon</div></a></td>
+      <td align="center"><a href="https://github.com/mylee99125"><div align=center>@mylee99125</div></a></td>
+      <td align="center"><a href="https://github.com/uii42"><div align=center>@uii42</div></a></td>
+      <td align="center"><a href="https://github.com/SEHEE-8546"><div align=center>@SEHEE-8546</div></a></td>
     </tr>
   </tbody>
 </table>
