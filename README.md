@@ -196,7 +196,7 @@
 <img width="1723" height="658" alt="Image" src="https://github.com/user-attachments/assets/233928a4-362b-4909-8b21-b356848dba69" />
 <img width="1723" height="521" alt="Image" src="https://github.com/user-attachments/assets/426a10dd-6582-41cd-94ef-d519070e928b" />
 
-[요구사항 정의서 바로가기 (PDF)](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN17-FINAL-3Team/blob/main/01_docs/WBS.pdf)
+[요구사항 정의서 바로가기 (PDF)](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN17-FINAL-3Team/blob/main/01_docs/3.%20%EC%9A%94%EA%B5%AC%EC%82%AC%ED%95%AD%20%EC%A0%95%EC%9D%98%EC%84%9C.pdf)
 
 <br>
 <br>
