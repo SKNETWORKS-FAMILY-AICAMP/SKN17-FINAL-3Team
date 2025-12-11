@@ -39,12 +39,12 @@
       </td>
       </tr>
     <tr>
-      <td><a href="https://github.com/alswhitetiger"><div align=center>김민균</div></a></td>
-      <td><a href="https://github.com/use08168"><div align=center>김준협</div></a></td>
-      <td><a href="https://github.com/minjeon"><div align=center>박민정</div></a></td>
-      <td><a href="https://github.com/mylee99125"><div align=center>이민영</div></a></td>
-      <td><a href="https://github.com/uii42"><div align=center>정의중</div></a></td>
-      <td><a href="https://github.com/SEHEE-8546"><div align=center>조세희</div></a></td>
+      <td align="center"><a href="https://github.com/alswhitetiger"><div align=center>김민균</div></a></td>
+      <td align="center"><a href="https://github.com/use08168"><div align=center>김준협</div></a></td>
+      <td align="center"><a href="https://github.com/minjeon"><div align=center>박민정</div></a></td>
+      <td align="center"><a href="https://github.com/mylee99125"><div align=center>이민영</div></a></td>
+      <td align="center"><a href="https://github.com/uii42"><div align=center>정의중</div></a></td>
+      <td align="center"><a href="https://github.com/SEHEE-8546"><div align=center>조세희</div></a></td>
     </tr>
   </tbody>
 </table>
@@ -82,7 +82,7 @@
 ## 프로젝트 배경
 <br>
 
-**1. 프로 야구 입문 장벽**
+### 1. 프로 야구 입문 장벽
 
 <img width="830" height="762" alt="Image" src="https://github.com/user-attachments/assets/f69ccfd2-44bd-4e73-bf5d-bfcc30d14f00" /> <br>
 [출처 : <a href="https://www.civicnews.com/news/articleView.html?idxno=34373">영어 약자로 된 야구 용어 남발...신규 야구 팬 유입 막는 걸림돌 될 수 있어</a>]
@@ -112,7 +112,7 @@
 
 <br>
 
-**2. 해설위원의 역할**
+### 2. 해설위원의 역할
 
 <img width="760" height="727" alt="Image" src="https://github.com/user-attachments/assets/b6f9a938-bac6-4d97-b61e-e4b64b0ac7dd" /> <br>
 [출처 : <a href="https://sports.news.nate.com/view/20250513n02348">영어 수준 떨어지는 야구해설, 언제까지 참고 들어야 하나</a>]
@@ -189,7 +189,7 @@
 <img width="1723" height="658" alt="Image" src="https://github.com/user-attachments/assets/233928a4-362b-4909-8b21-b356848dba69" />
 <img width="1723" height="521" alt="Image" src="https://github.com/user-attachments/assets/426a10dd-6582-41cd-94ef-d519070e928b" />
 
-[요구사항 바로가기 (PDF)](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN17-FINAL-3Team/blob/main/01_docs/WBS.pdf)
+[요구사항 정의서 바로가기 (PDF)](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN17-FINAL-3Team/blob/main/01_docs/WBS.pdf)
 
 <br>
 <br>
@@ -313,13 +313,18 @@
 
 
 <details>
- <summary>모델 테스트 계획 및 결과보고서 </summary> 
+ <summary>모델 테스트 계획 및 결과</summary> 
 
 ### <테스트 정보>
+<img width="430" height="780" alt="Image" src="https://github.com/user-attachments/assets/47e99307-9f07-46df-a012-a02730596ca5" />
    
 <br>
    
 ### <테스트 결과>
+<img width="433" height="863" alt="Image" src="https://github.com/user-attachments/assets/76d26be9-c2fa-475d-87ed-cd3f47941877" /> <br>
+<img width="421" height="921" alt="Image" src="https://github.com/user-attachments/assets/9e717c17-ee2a-4a1e-aede-5cec33690de9" /> <br>
+<img width="563" height="310" alt="Image" src="https://github.com/user-attachments/assets/4c0d9924-a394-4565-ad48-3340ce187b4b" />
+
 
 </details>
 
@@ -329,7 +334,11 @@
 <br>
 
 <details>
- <summary>AI 학습 결과서</summary>
+ <summary>AI 학습 결과</summary>
+ <img width="748" height="506" alt="Image" src="https://github.com/user-attachments/assets/339033fb-38fe-4d3a-bada-cd0313642c19" />
+ <img width="742" height="510" alt="Image" src="https://github.com/user-attachments/ assets/cbae8a62-6f3e-49e9-a485-51313a901539" />
+ <img width="745" height="506" alt="Image" src="https://github.com/user-attachments/ assets/d5dc9bc9-0581-408d-91e8-b266e8b0bdcb" />
+ <img width="355" height="322" alt="Image" src="https://github.com/user-attachments/ assets/f9b5f291-4def-486a-8140-65627ce0da45" />
  
 </details>
 
@@ -338,7 +347,7 @@
 <br>
 
 <details>
- <summary>시스템 테스트 계획 및 결과보고서 </summary> 
+ <summary>시스템 테스트 계획 및 결과</summary> 
 
 ### <테스트 정보>
 
