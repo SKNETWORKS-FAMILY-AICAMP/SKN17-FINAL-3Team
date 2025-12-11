@@ -289,6 +289,10 @@
 
 <details>
  <summary>화면 설계서</summary>
+ <img width="1320" height="737" alt="Image" src="https://github.com/user-attachments/assets/3ca73a94-0e10-4dbb-b16a-cf464b5ad0bd" />
+ <img width="1323" height="741" alt="Image" src="https://github.com/user-attachments/assets/6930c355-c158-450a-ac7f-531c95a3b0c3" />
+ <img width="1325" height="745" alt="Image" src="https://github.com/user-attachments/assets/4ef80114-b26c-4584-9aef-6100ae65e3b4" />
+ <img width="1317" height="737" alt="Image" src="https://github.com/user-attachments/assets/a68b8234-4b6d-4e62-9d70-c39ce66c2339" />
 
 </details>
 
