@@ -60,7 +60,7 @@
 - [6. 데이터 설계](#6-데이터-설계)
 - [7. AI 설계](#7-ai-설계)
 - [8. 결론](#8-결론)
-- [9. 향후 계획 및 고도화](#9-향후-계획-및-고도화)
+- [9. 개선 및 향후 개발 필요](#9-개선-및-향후-개발-필요)
 - [10. 회고](#10-회고)
  
 
@@ -84,23 +84,25 @@
 
 **1. 프로 야구 입문 장벽**
 
-<table>  
-  <tbody>
-   <tr>
-      <td> <img width="830" height="762" alt="Image" src="https://github.com/user-attachments/assets/f69ccfd2-44bd-4e73-bf5d-bfcc30d14f00" /> </td>
-      <td> <img width="978" height="447" alt="Image" src="https://github.com/user-attachments/assets/e0b93f1e-5c9c-4cd5-b011-e5064b599836" /> </td>
-      <td> <img width="1125" height="616" alt="Image" src="https://github.com/user-attachments/assets/7d897f73-84d5-4135-8b20-62aed1143590" /> </td>
-    </tr>
-    <tr>
-      <td><a href="https://www.civicnews.com/news/articleView.html?idxno=34373">영어 약자로 된 야구 용어 남발...</a></td>
-      <td>[출처:Team BASIS 자체 설문조사(2025)]</td>
-      <td>[출처:Team BASIS 자체 설문조사(2025)]</td>
-    </tr>
-  </tbody>
-</table>  
+<img width="830" height="762" alt="Image" src="https://github.com/user-attachments/assets/f69ccfd2-44bd-4e73-bf5d-bfcc30d14f00" /> <br>
+<a href="https://www.civicnews.com/news/articleView.html?idxno=34373">영어 약자로 된 야구 용어 남발...</a>
+
 <br>
 
 - 프로 야구에 관심이 있지만 어려운 야구 용어와 복잡한 야구 규칙으로 입문 어렵
+
+<table>  
+  <tbody>
+   <tr>
+      <td> <img width="978" height="447" alt="Image" src="https://github.com/user-attachments/assets/e0b93f1e-5c9c-4cd5-b011-e5064b599836" /> </td>
+      <td> <img width="1125" height="616" alt="Image" src="https://github.com/user-attachments/assets/7d897f73-84d5-4135-8b20-62aed1143590" /> </td>
+    </tr>
+  </tbody>
+</table> 
+[출처:2025년 Team Basis 자체 설문조사(Google Forms, n=65)]
+
+<br>
+
 - 설문 조사 결과, 야구 입문 장벽의 이유로 **어려운 용어**와 **복잡한 규칙**이 제일 큰 비중을 차지
 - 해설위원에게 바라는 점으로 **초보자들도 이해하기 쉽게 풀어서 설명해줬으면 좋겠다**는 답변 다수 
 
@@ -108,26 +110,23 @@
 <br>
 
 **2. 해설위원의 역할**
-
-<table>  
-  <tbody>
-   <tr>
-      <td> <img width="760" height="727" alt="Image" src="https://github.com/user-attachments/assets/b6f9a938-bac6-4d97-b61e-e4b64b0ac7dd" /> </td>
-      <td> <img width="1147" height="622" alt="Image" src="https://github.com/user-attachments/assets/fa637358-3d14-4887-8cc5-9cce560a0dfd" />
- </td>
-    </tr>
-  <tr>
-   <td><a href="https://sports.news.nate.com/view/20250513n02348">영어 수준 떨어지는 야구해설, 언제까지 참고 들어야 하나</a></td>
-   <td>[출처:Team BASIS 자체 설문조사(2025)]</td>
-  </tr>
-  </tbody>
-</table>  
+<img width="760" height="727" alt="Image" src="https://github.com/user-attachments/assets/b6f9a938-bac6-4d97-b61e-e4b64b0ac7dd" /> <br>
+<a href="https://sports.news.nate.com/view/20250513n02348">영어 수준 떨어지는 야구해설, 언제까지 참고 들어야 하나</a>
 
 <br>
 
 - 해설위원의 역할은 경기 이해도와 몰입도를 높이는데 효과적
 - 팬 맞춤 해설에 대한 욕구 증가
 - 하지만, 수준 떨어지는 해설에 대한 불만 끊임없이 야기
+
+<br>
+
+<img width="1147" height="622" alt="Image" src="https://github.com/user-attachments/assets/fa637358-3d14-4887-8cc5-9cce560a0dfd" /> <br>
+[출처:2025년 Team Basis 자체 설문조사(Google Forms, n=65)]
+ 
+
+<br>
+
 - 설문조사 결과, 해설위원에게 바라는 점으로 **해설위원의 편파 중계에 대한 불만** 다수 존재 
 
 <br>
@@ -138,11 +137,9 @@
    <tr>
       <td> <img width="1311" height="625" alt="Image" src="https://github.com/user-attachments/assets/fcec71e0-4f63-4c6d-b50b-5fcd7fdf1a58" /> </td>
     </tr>
-    <tr>
-      <td>[출처:Team BASIS 자체 설문조사(2025)]</td>
-    </tr>
   </tbody>
 </table>  
+[출처:2025년 Team Basis 자체 설문조사(Google Forms, n=65)]
 
 <br>
 
@@ -297,14 +294,12 @@
 
 <details>
  <summary>데이터 전처리 결과서 </summary>
- 
-
-</details>
-
-[RAG 데이터 전처리 결과서 자세히 보러가기 (PDF)](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN17-FINAL-3Team/blob/main/01_docs/6.RAG%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%A0%84%EC%B2%98%EB%A6%AC%20%EA%B2%B0%EA%B3%BC%EC%84%9C.pdf)
+ [RAG 데이터 전처리 결과서 자세히 보러가기 (PDF)](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN17-FINAL-3Team/blob/main/01_docs/6.RAG%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%A0%84%EC%B2%98%EB%A6%AC%20%EA%B2%B0%EA%B3%BC%EC%84%9C.pdf)
 <br>
 
 [파인튜닝 데이터 전처리 결과서 자세히 보러가기 (PDF)](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN17-FINAL-3Team/blob/main/01_docs/7.%ED%8C%8C%EC%9D%B8%ED%8A%9C%EB%8B%9D%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%A0%84%EC%B2%98%EB%A6%AC%20%EA%B2%B0%EA%B3%BC%EC%84%9C.pdf)
+
+</details>
 
 <br>
 <br>
@@ -398,27 +393,44 @@
 <br>
 <br>
 
-# 9. 향후 계획 및 고도화 
+# 9. 개선 및 향후 개발 필요
 
-향후 계획
-- 커뮤니티 기능 강화
-  - 사용자들이 의견을 나누거나 토론할 수 있는 실시간 커뮤니티 또는 댓글 기능 추가
-- 해설위원 페르소나 다양화
-  - 다양한 개성과 전문성을 가진 AI 페르소나 추가
-- 실시간 중계 서비스 도입
-  - 실시간 야구 스트리밍에 AI 해설을 곧바로 적용
+### 1) 사용자 경험(UX) 고도화
+- 사용자의 선호 구단에 맞춘 편파 해설 ON/OFF 기능 제공
+  - 팬 성향을 반영한 개인화된 해설 기능
+- 사용자가 의견을 공유하고 실시간으로 상호작용할 수 있도록 커뮤니티/댓글 기능 도입
+- 다양한 개성과 전문성을 가진 AI 해설 페르소나 추가로 사용자 선택지 확대
 
-고도화
-- 해설위원 숫자 확대
-  - 다국어 해설 지원
-  - 인간 해설에 가까운 자연스러운 억양, 호흡, 감정 등 표현
-- 업로드 영상 파일 확장 (MP4 외 링크 지원)
-  - 유튜브, 네이버 스포츠 등 주요 스트리밍 플랫폼의 영상 링크 (URL)을 입력
-- 경기 영상 모션 인식 
-  - 영상 분석 기술 (ODAR)을 활용해 텍스트 말고도 영상을 보고 경기 상황을 AI가 직접 인지하고 해설에 반영
-- RAG/Fine-tuning 데이터 최신화 및 정교화
-  - 최신 경기 기록, 선수 정보 등의 데이터를 정기적으로 자동 업데이트
-  - Fine-tuning 데이터셋에 다양한 문맥과 비유적 표현 추가
+### 2) 실시간성과 멀티모달 능력 강화
+- 실시간 경기 스트리밍과 연동된 즉시 해설 기능 구현
+- 텍스트에 의존하지 않고 영상 기반 모션 인식(ODAR)을 적용하여 경기 상황을 직접 파악하고 해설에 반영하는 멀티모달 시스템 개발
+- 여러 사용자가 동시에 영상을 업로드할 때를 대비한 트래픽 관리 및 처리 병렬화 최적화 
+
+### 3) 서비스 확장성 강화
+- 야구 외에도 다른 스포츠(축구, 농구, 배구 등)로 확장 가능한 구조 설계
+- 현재는 MP4파일만 업로드 가능 → MP4 외의 다양한 영상 포맷 및 주요 플랫폼 URL 지원
+- 해외 사용자 확대를 위해 다국어 해설 기능 지원 
+
+### 4) 모델 및 데이터 품질 강화
+- 최신 경기 기록/선수 정보를 기반으로 정기적,자동화된 데이터 업데이트 체계 구축
+- RAG 및 Fine-tuning 데이터셋을 더 풍부하게 구성
+  - 다양한 문맥, 비유, 실전 해설 스타일 포함
+- 인간 해설에 가까운 자연스러운 억양, 호흡, 감정 표현
+
+### 5) 서비스 안정성 및 확장성 구축
+- 실시간 중계 연동 시 필요한 대규모 트래픽 처리 구조 확립
+- 멀티모달 기능을 위한 GPU 리소스 최적화 및 인프라 개선
+- AWS S3에 영상 저장 시 영상 압축 후 저장 
+  - 사용자가 영상을 시청할 때 영상 압축 해제 및 스트리밍 최적화 
+
+### 6) 결제 및 수익화 시스템 개선
+- 카카오페이만 가능한 현재의 결제 수단 → 네이버페이, 카드 결제 등 결제 수단 다양화 
+- 유료 버전에 경기 분석 리포츠 제공 등 부가 서비스 확장 
+
+
+
+### 고도화 방향 - 편파,트래픽 관리(최적화), 결제 시스템 추가, 저장할 때 영상 압축, 웹 페이지 로딩 시간 개선, 다른 스포츠 확장
+
 
 
 
