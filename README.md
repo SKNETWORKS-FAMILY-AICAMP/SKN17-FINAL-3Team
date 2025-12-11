@@ -154,62 +154,63 @@
 
 #  2. 프로젝트 기획
 
-### WBS
+## 📆WBS
 <img width="1543" height="782" alt="Image" src="https://github.com/user-attachments/assets/e162d2a9-843c-47f0-a249-082c4115d9f5" />
 
-<details>
- <summary>WBS 바로가기</summary>
-
- [WBS 바로가기 (PDF)](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN17-FINAL-3Team/blob/main/01_docs/1.WBS.pdf)
-
-</details>
+[WBS 바로가기 (PDF)](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN17-FINAL-3Team/blob/main/01_docs/1.WBS.pdf)
 
 <br>
 
-### 프로젝트 기획서 
-![image](https://github.com/user-attachments/assets/5c2b0f10-e901-4541-9090-600982fafccd)
+## 📁프로젝트 기획서 
+<img width="752" height="522" alt="Image" src="https://github.com/user-attachments/assets/f1953d63-886e-4220-8843-13c78abd9510" />
+<img width="735" height="502" alt="Image" src="https://github.com/user-attachments/assets/99ca19b5-b7df-4243-b97a-d532c7772663" />
+<img width="731" height="490" alt="Image" src="https://github.com/user-attachments/assets/6d226f6c-55cd-4a84-ae1d-0cd3a333fe51" />
 
-<details>
- <summary>프로젝트 기획서 바로가기</summary>
 
- [프로젝트 기획서 바로가기 (PDF)](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN17-FINAL-3Team/blob/main/01_docs/2.%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EA%B8%B0%ED%9A%8D%EC%84%9C.pdf)
-
-</details>
+[프로젝트 기획서 바로가기 (PDF)](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN17-FINAL-3Team/blob/main/01_docs/2.%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EA%B8%B0%ED%9A%8D%EC%84%9C.pdf)
 
 <br>
 
-### 요구사항 정의서 
-![image](https://github.com/user-attachments/assets/5c2b0f10-e901-4541-9090-600982fafccd)
+## 🗂️요구사항 정의서 
+<img width="1723" height="658" alt="Image" src="https://github.com/user-attachments/assets/233928a4-362b-4909-8b21-b356848dba69" />
+<img width="1723" height="521" alt="Image" src="https://github.com/user-attachments/assets/426a10dd-6582-41cd-94ef-d519070e928b" />
 
-<details>
- <summary>요구사항 정의서 바로가기</summary>
-
- [요구사항 바로가기 (PDF)](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN17-FINAL-3Team/blob/main/01_docs/WBS.pdf)
-
-</details>
+[요구사항 바로가기 (PDF)](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN17-FINAL-3Team/blob/main/01_docs/WBS.pdf)
 
 <br>
 <br>
 
 # 3. 기술 스택
 
+### 💻 핵심 개발 및 AI/ML 스택
 | 카테고리 | 기술 스택 |
 |----------|-------------------------------------------|
 | **사용 언어** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white) |
-| **프레임워크** | ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white) |
+| **웹 프레임워크** | ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white) |
 | **LLM / VLM** | ![KAKAOCORP/kanana-1.5-8b-instruct](https://img.shields.io/badge/kakaocorp/kanana--1.5--8b--instruct-2505-FFB000?style=for-the-badge&logo=HuggingFace&logoColor=white) ![Qwen](https://img.shields.io/badge/Qwen-005F73?style=for-the-badge&logo=HuggingFace&logoColor=white) |
-| **STT** | ![Google Cloud Speech-to-Text](https://img.shields.io/badge/CHIRP%203-4285F4?style=for-the-badge&logo=Google-cloud&logoColor=white) ![TELEPHONY STT](https://img.shields.io/badge/TELEPHONY%20STT-000000?style=for-the-badge&logo=Twilio&logoColor=white) |
-| **TTS** | ![Google Cloud Text-to-Speech](https://img.shields.io/badge/Fish%20Audio-DB4437?style=for-the-badge&logo=Google-cloud&logoColor=white) |
+| **음성 인식 및 화자 분리 (STT)** | ![Google Cloud Speech-to-Text](https://img.shields.io/badge/CHIRP%203-4285F4?style=for-the-badge&logo=Google-cloud&logoColor=white) ![TELEPHONY STT](https://img.shields.io/badge/TELEPHONY%20STT-000000?style=for-the-badge&logo=Twilio&logoColor=white) |
+| **음성 합성 (TTS)** | ![Google Cloud Text-to-Speech](https://img.shields.io/badge/Fish%20Audio-DB4437?style=for-the-badge&logo=Google-cloud&logoColor=white) |
 | **벡터 데이터베이스** | ![FAISS](https://img.shields.io/badge/FAISS-009688?style=for-the-badge&logo=Facebook&logoColor=white) |
 | **임베딩 모델** | ![nlpai-lab/KURE-v1](https://img.shields.io/badge/nlpai--lab%2FKURE--v1-8C9E90?style=for-the-badge&logo=HuggingFace&logoColor=white) |
 | **모델 튜닝 / 학습 프레임워크** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white) ![Transformers](https://img.shields.io/badge/Transformers-FFCC00?style=for-the-badge&logo=HuggingFace&logoColor=black) ![LoRA](https://img.shields.io/badge/LoRA-F76D57?style=for-the-badge&logo=HuggingFace&logoColor=white) |
+
+### 🌐 프론트엔드 및 인프라/배포
+| 카테고리 | 기술 스택 |
+|----------|-------------------------------------------|
 | **UI / 프론트엔드** | <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> |
 | **실행 환경** | ![RunPod](https://img.shields.io/badge/RunPod-FF4500?style=for-the-badge&logo=Render&logoColor=white) ![AWS EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?style=for-the-badge&logo=Amazon%20AWS&logoColor=white) |
 | **배포 및 컨테이너** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white) ![Docker Compose](https://img.shields.io/badge/Docker--Compose-1488C6?style=for-the-badge&logo=Docker&logoColor=white) |
-| **DB 및 기타** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white) ![Amazon S3](https://img.shields.io/badge/Amazon%20S3-232F3E?style=for-the-badge&logo=amazons3&logoColor=white) ![Amazon RDS](https://img.shields.io/badge/Amazon%20RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white) |
+| **DB / Storage** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white) ![Amazon S3](https://img.shields.io/badge/Amazon%20S3-232F3E?style=for-the-badge&logo=amazons3&logoColor=white) ![Amazon RDS](https://img.shields.io/badge/Amazon%20RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white) |
+| **서버** | ![nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Gunicorn](https://img.shields.io/badge/Gunicorn-499848?style=for-the-badge&logo=Gunicorn&logoColor=white) |
+
+
+### 🤝 협업 및 기타
+| 카테고리 | 기술 스택 |
+|----------|-------------------------------------------|
 | **형상 관리 / 협업** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white) ![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=Google%20Drive&logoColor=white) |
 | **테스트** | ![Pytest](https://img.shields.io/badge/pytest-ffffff?style=for-the-badge&logo=pytest&logoColor=2f9fe3) |
 | **개발환경** | ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) |
+
 
 
 <br>
@@ -217,7 +218,7 @@
 # 4. 시스템 아키텍처
 
 ### 4.1 시스템 아키텍처
-<img width="637" height="354" alt="Image" src="https://github.com/user-attachments/assets/4f7cede5-2473-4c85-8edb-5ede692f5fa1" />
+<img width="962" height="546" alt="Image" src="https://github.com/user-attachments/assets/88ee2ba1-8561-401c-8681-9684f80d160d" />
 
 <br>
 
@@ -233,8 +234,6 @@
 
 ### 5.1 시나리오 설계
 
-[시나리오 설계서 바로가기 (PDF)](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN17-FINAL-3Team/blob/main/01_docs/4.%EC%8B%9C%EB%82%98%EB%A6%AC%EC%98%A4%20%EC%84%A4%EA%B3%84%EC%84%9C.pdf)
-
 <details>
  <summary>회원 정보 관리</summary>
  <img width="1188" height="706" alt="Image" src="https://github.com/user-attachments/assets/31be7950-d341-421c-800c-42be1580b8b5" />
@@ -242,21 +241,16 @@
  <img width="1192" height="622" alt="Image" src="https://github.com/user-attachments/assets/9429bb56-583e-4e69-af3c-96fb43a270a3" />
  <br>
  <img width="1192" height="572" alt="Image" src="https://github.com/user-attachments/assets/a89cf5be-74bd-4c0d-b69b-60318aa4e866" />
- 
-
 </details>
 
 <details>
  <summary>선호 구단 선택</summary>
  <img width="1192" height="781" alt="Image" src="https://github.com/user-attachments/assets/aa10371a-db0d-48fe-8d0b-30fd7503b8ee" />
- 
 </details>
 
 <details>
  <summary>구독</summary>
  <img width="996" height="777" alt="Image" src="https://github.com/user-attachments/assets/91f6217e-0b73-4e09-bc14-c26525b591bf" />
- 
-
 </details>
 
 <details>
@@ -264,20 +258,20 @@
  <img width="992" height="536" alt="Image" src="https://github.com/user-attachments/assets/aa96e0a1-2d2b-4059-a38a-afe1531ff0b5" />
  <br>
  <img width="998" height="457" alt="Image" src="https://github.com/user-attachments/assets/677f9571-d2de-4a7b-99c9-5b96862cdd67" />
-
-
 </details>
+
+[시나리오 설계서 바로가기 (PDF)](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN17-FINAL-3Team/blob/main/01_docs/4.%EC%8B%9C%EB%82%98%EB%A6%AC%EC%98%A4%20%EC%84%A4%EA%B3%84%EC%84%9C.pdf)
 
 <br>
 
 ### 5.2 화면 설계
 
-[화면설계서 자세히 보러가기 (PDF)](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN17-FINAL-3Team/blob/main/01_docs/5.%ED%99%94%EB%A9%B4%EC%84%A4%EA%B3%84%EC%84%9C.pdf)
-
 <details>
  <summary>화면 설계서</summary>
 
 </details>
+
+[화면설계서 자세히 보러가기 (PDF)](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN17-FINAL-3Team/blob/main/01_docs/5.%ED%99%94%EB%A9%B4%EC%84%A4%EA%B3%84%EC%84%9C.pdf)
 
 <br>
 <br>
@@ -311,12 +305,9 @@
 
 ### <테스트 정보>
    
-
-
 <br>
    
 ### <테스트 결과>
-
 
 </details>
 
@@ -328,8 +319,6 @@
 <details>
  <summary>AI 학습 결과서</summary>
  
-
-
 </details>
 
 [인공지능 학습 결과서 자세히 보기 (PDF)](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN17-FINAL-3Team/blob/main/01_docs/9.%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%20%ED%95%99%EC%8A%B5%20%EA%B2%B0%EA%B3%BC%EC%84%9C.pdf)
@@ -341,12 +330,9 @@
 
 ### <테스트 정보>
 
-
-
 <br>
    
 ### <테스트 결과>
-
 
 </details>
 
@@ -360,7 +346,7 @@
 ## 시연 영상
 
 **[메인 플로우]**  
-- 회원 가입 > 구독 > 하이라이트 영상 시청 
+- 회원 가입 > 구독 > 하이라이트 영상 선택 > 해설위원 선택 > 영상 시청  
 
 
 <br>
@@ -376,22 +362,22 @@
 <br>
 
 ## 결과 및 사용자 피드백
-[사용자 테스트 설문 결과]
+**[사용자 테스트 설문 결과]**
 
 ![image](https://github.com/user-attachments/assets/d937af9d-45cc-429e-9250-340adee14b28)
 
 
-[평가]
+**[평가]**
 
 ![9기_2팀_최종PPT pptx (10)](https://github.com/user-attachments/assets/79a8810e-f80f-4dec-8af3-648d152ce795)
 
 
-[기대 효과]
+**[기대 효과]**
 
 ![9기_2팀_최종PPT pptx (11)](https://github.com/user-attachments/assets/5c1836a7-8fd5-43a9-bf0b-ca08b4bdc531)
 
 
-[확장 가능성]
+**[확장 가능성]**
 
 ![9기_2팀_최종PPT pptx (12)](https://github.com/user-attachments/assets/2b924d7e-67c9-4aae-a3d4-a8b1adc40773)
 
@@ -400,7 +386,27 @@
 <br>
 <br>
 
-# 9. 향후 계획 및 보완점 
+# 9. 향후 계획 및 고도화 
+
+향후 계획
+- 커뮤니티 기능 강화
+  - 사용자들이 의견을 나누거나 토론할 수 있는 실시간 커뮤니티 또는 댓글 기능 추가
+- 해설위원 페르소나 다양화
+  - 다양한 개성과 전문성을 가진 AI 페르소나 추가
+- 실시간 중계 서비스 도입
+  - 실시간 야구 스트리밍에 AI 해설을 곧바로 적용
+
+고도화
+- 해설위원 숫자 확대
+  - 다국어 해설 지원
+  - 인간 해설에 가까운 자연스러운 억양, 호흡, 감정 등 표현
+- 업로드 영상 파일 확장 (MP4 외 링크 지원)
+  - 유튜브, 네이버 스포츠 등 주요 스트리밍 플랫폼의 영상 링크 (URL)을 입력
+- 경기 영상 모션 인식 
+  - 영상 분석 기술 (ODAR)을 활용해 텍스트 말고도 영상을 보고 경기 상황을 AI가 직접 인지하고 해설에 반영
+- RAG/Fine-tuning 데이터 최신화 및 정교화
+  - 최신 경기 기록, 선수 정보 등의 데이터를 정기적으로 자동 업데이트
+  - Fine-tuning 데이터셋에 다양한 문맥과 비유적 표현 추가
 
 
 
