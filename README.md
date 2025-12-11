@@ -84,9 +84,11 @@
 
 ### 1. 프로 야구 입문 장벽
 <p align="center">
-<img width="730" height="662" alt="Image" src="https://github.com/user-attachments/assets/f69ccfd2-44bd-4e73-bf5d-bfcc30d14f00" /> </p> <br>
+<img width="730" height="662" alt="Image" src="https://github.com/user-attachments/assets/f69ccfd2-44bd-4e73-bf5d-bfcc30d14f00" /> </p>
 [출처 : <a href="https://www.civicnews.com/news/articleView.html?idxno=34373">영어 약자로 된 야구 용어 남발...신규 야구 팬 유입 막는 걸림돌 될 수 있어</a>]
 
+
+<br>
 <br>
 
 - 프로 야구에 관심이 있지만 어려운 야구 용어와 복잡한 야구 규칙으로 입문 어렵
@@ -101,7 +103,8 @@
     </tr>
   </tbody>
 </table>
-[출처:2025년 Team Basis 자체 설문조사(Google Forms, n=65)]
+[출처:2025년 Team BASIS 자체 설문조사(Google Forms, n=65)]
+
 
 <br>
 <br>
@@ -115,9 +118,11 @@
 ### 2. 해설위원의 역할
 
 <p align="center">
-<img width="660" height="627" alt="Image" src="https://github.com/user-attachments/assets/b6f9a938-bac6-4d97-b61e-e4b64b0ac7dd" /> </p> <br>
+<img width="660" height="627" alt="Image" src="https://github.com/user-attachments/assets/b6f9a938-bac6-4d97-b61e-e4b64b0ac7dd" /> </p>
 [출처 : <a href="https://sports.news.nate.com/view/20250513n02348">영어 수준 떨어지는 야구해설, 언제까지 참고 들어야 하나</a>]
 
+
+<br>
 <br>
 
 - 해설위원의 역할은 경기 이해도와 몰입도를 높이는데 효과적
@@ -127,7 +132,7 @@
 <br>
 
 <img width="947" height="422" alt="Image" src="https://github.com/user-attachments/assets/fa637358-3d14-4887-8cc5-9cce560a0dfd" /> <br>
-[출처:2025년 Team Basis 자체 설문조사(Google Forms, n=65)]
+[출처:2025년 Team BASIS 자체 설문조사(Google Forms, n=65)]
  
 
 <br>
@@ -140,11 +145,12 @@
 <table>  
   <tbody>
    <tr>
-      <td> <img width="1211" height="525" alt="Image" src="https://github.com/user-attachments/assets/fcec71e0-4f63-4c6d-b50b-5fcd7fdf1a58" /> </td>
+      <td> <img width="1311" height="625" alt="Image" src="https://github.com/user-attachments/assets/15372a44-43b7-42f4-8801-a20279996feb" /> </td>
     </tr>
   </tbody>
 </table>
-[출처:2025년 Team Basis 자체 설문조사(Google Forms, n=65)]
+[출처:2025년 Team BASIS 자체 설문조사(Google Forms, n=65)]
+
 
 <br>
 <br>
@@ -441,6 +447,7 @@
 ### 6) 결제 및 수익화 시스템 개선
 - 카카오페이만 가능한 현재의 결제 수단 → 네이버페이, 카드 결제 등 결제 수단 다양화 
 - 유료 버전에 경기 분석 리포츠 제공 등 부가 서비스 확장 
+
 
 
 # 10. 회고
