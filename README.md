@@ -10,41 +10,41 @@
 ### 팀원 소개
 <table>
   <tbody>
-   <tr>
-    <br>
-      <td align=center><b>김민균</b></td>
-      <td align=center><b>김준협</b></td>
-      <td align=center><b>박민정</b></td>
-      <td align=center><b>이민영</b></td>
-      <td align=center><b>정의중</b></td>
-      <td align=center><b>조세희</b></td>
+    <tr>
+      <td align="center" width="16%"><b>김민균</b></td>
+      <td align="center" width="16%"><b>김준협</b></td>
+      <td align="center" width="16%"><b>박민정</b></td>
+      <td align="center" width="16%"><b>이민영</b></td>
+      <td align="center" width="16%"><b>정의중</b></td>
+      <td align="center" width="16%"><b>조세희</b></td>
     </tr>
     <tr>
       <td align="center">
-          <img width="273" height="275" alt="Image" src="https://github.com/user-attachments/assets/7b43b853-addd-4bb1-a7b3-26e695742f31" />
-      <td align="center">
-          <img width="273" height="275" alt="Image" src="https://github.com/user-attachments/assets/7e191d94-7885-4c5c-8239-2681f5781c81" />
+        <img width="140" alt="Image" src="https://github.com/user-attachments/assets/7b43b853-addd-4bb1-a7b3-26e695742f31" />
       </td>
       <td align="center">
-        <img width="273" height="275" alt="Image" src="https://github.com/user-attachments/assets/f991d5d3-20d6-4939-9273-cc7772ea6233" />
+        <img width="140" alt="Image" src="https://github.com/user-attachments/assets/7e191d94-7885-4c5c-8239-2681f5781c81" />
       </td>
       <td align="center">
-        <img width="273" height="275" alt="Image" src="https://github.com/user-attachments/assets/d574f00a-b6a8-4e92-aadb-d4c6c8d69d36" />
-      </td>
-       <td align="center">
-        <img width="273" height="275" alt="Image" src="https://github.com/user-attachments/assets/4c6208e1-ce36-4495-8f32-b23abc83e002" />
+        <img width="140" alt="Image" src="https://github.com/user-attachments/assets/f991d5d3-20d6-4939-9273-cc7772ea6233" />
       </td>
       <td align="center">
-        <img width="273" height="275" alt="Image" src="https://github.com/user-attachments/assets/257e214f-7842-476f-b910-c48b9fadacc4" />
+        <img width="140" alt="Image" src="https://github.com/user-attachments/assets/d574f00a-b6a8-4e92-aadb-d4c6c8d69d36" />
       </td>
-      </tr>
+      <td align="center">
+        <img width="140" alt="Image" src="https://github.com/user-attachments/assets/4c6208e1-ce36-4495-8f32-b23abc83e002" />
+      </td>
+      <td align="center">
+        <img width="140" alt="Image" src="https://github.com/user-attachments/assets/257e214f-7842-476f-b910-c48b9fadacc4" />
+      </td>
+    </tr>
     <tr>
-      <td align="center"><a href="https://github.com/alswhitetiger"><div align=center>@alswhitetiger</div></a></td>
-      <td align="center"><a href="https://github.com/use08168"><div align=center>@use08168</div></a></td>
-      <td align="center"><a href="https://github.com/minjeon"><div align=center>@minjeon</div></a></td>
-      <td align="center"><a href="https://github.com/mylee99125"><div align=center>@mylee99125</div></a></td>
-      <td align="center"><a href="https://github.com/uii42"><div align=center>@uii42</div></a></td>
-      <td align="center"><a href="https://github.com/SEHEE-8546"><div align=center>@SEHEE-8546</div></a></td>
+      <td align="center"><a href="https://github.com/alswhitetiger">@alswhitetiger</a></td>
+      <td align="center"><a href="https://github.com/use08168">@use08168</a></td>
+      <td align="center"><a href="https://github.com/minjeon">@minjeon</a></td>
+      <td align="center"><a href="https://github.com/mylee99125">@mylee99125</a></td>
+      <td align="center"><a href="https://github.com/uii42">@uii42</a></td>
+      <td align="center"><a href="https://github.com/SEHEE-8546">@SEHEE-8546</a></td>
     </tr>
   </tbody>
 </table>
