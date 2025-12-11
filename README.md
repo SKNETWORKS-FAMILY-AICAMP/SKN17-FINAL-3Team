@@ -21,21 +21,21 @@
     </tr>
     <tr>
       <td align="center">
-          <img alt="Image" src="https://github.com/user-attachments/assets/6388e59a-e07b-4bf0-add1-b02155c4823a" width="200px;" alt="김민균"/>
+          <img width="273" height="275" alt="Image" src="https://github.com/user-attachments/assets/7b43b853-addd-4bb1-a7b3-26e695742f31" />
       <td align="center">
-          <img alt="Image" src="https://github.com/user-attachments/assets/4cac2da3-8cbe-41d0-b380-cfe1a1d36792" width="200px;" alt="김준협"/>
+          <img width="273" height="275" alt="Image" src="https://github.com/user-attachments/assets/7e191d94-7885-4c5c-8239-2681f5781c81" />
       </td>
       <td align="center">
-        <img alt="Image" src="https://github.com/user-attachments/assets/4aa26058-5332-480d-83e0-16ae9d5afa44" width="200px;"alt="박민정" />
+        <img width="273" height="275" alt="Image" src="https://github.com/user-attachments/assets/f991d5d3-20d6-4939-9273-cc7772ea6233" />
       </td>
       <td align="center">
-        <img alt="Image" src="https://github.com/user-attachments/assets/c04c8959-5265-4bd4-9c7c-782f0d63d147" width="200px;" alt="이민영"/>
+        <img width="273" height="275" alt="Image" src="https://github.com/user-attachments/assets/d574f00a-b6a8-4e92-aadb-d4c6c8d69d36" />
       </td>
        <td align="center">
-        <img alt="Image" src="https://github.com/user-attachments/assets/568d6707-31a3-4095-b6bd-8b7fab0b1d36" width="200px;" alt="정의중"/>
+        <img width="273" height="275" alt="Image" src="https://github.com/user-attachments/assets/4c6208e1-ce36-4495-8f32-b23abc83e002" />
       </td>
       <td align="center">
-        <img alt="Image" src="https://github.com/user-attachments/assets/568d6707-31a3-4095-b6bd-8b7fab0b1d36" width="200px;" alt="조세희"/>
+        <img width="273" height="275" alt="Image" src="https://github.com/user-attachments/assets/257e214f-7842-476f-b910-c48b9fadacc4" />
       </td>
       </tr>
     <tr>
@@ -60,7 +60,7 @@
 - [6. 데이터 설계](#6-데이터-설계)
 - [7. AI 설계](#7-ai-설계)
 - [8. 결론](#8-결론)
-- [9. 향후 계획 및 보완점](#9-향후-계획-및-보완점)
+- [9. 향후 계획 및 고도화](#9-향후-계획-및-고도화)
 - [10. 회고](#10-회고)
  
 
@@ -91,6 +91,11 @@
       <td> <img width="978" height="447" alt="Image" src="https://github.com/user-attachments/assets/e0b93f1e-5c9c-4cd5-b011-e5064b599836" /> </td>
       <td> <img width="1125" height="616" alt="Image" src="https://github.com/user-attachments/assets/7d897f73-84d5-4135-8b20-62aed1143590" /> </td>
     </tr>
+    <tr>
+      <td><a href="https://www.civicnews.com/news/articleView.html?idxno=34373">영어 약자로 된 야구 용어 남발...</a></td>
+      <td>[출처:Team BASIS 자체 설문조사(2025)]</td>
+      <td>[출처:Team BASIS 자체 설문조사(2025)]</td>
+    </tr>
   </tbody>
 </table>  
 <br>
@@ -111,6 +116,10 @@
       <td> <img width="1147" height="622" alt="Image" src="https://github.com/user-attachments/assets/fa637358-3d14-4887-8cc5-9cce560a0dfd" />
  </td>
     </tr>
+  <tr>
+   <td><a href="https://sports.news.nate.com/view/20250513n02348">영어 수준 떨어지는 야구해설, 언제까지 참고 들어야 하나</a></td>
+   <td>[출처:Team BASIS 자체 설문조사(2025)]</td>
+  </tr>
   </tbody>
 </table>  
 
@@ -128,6 +137,9 @@
   <tbody>
    <tr>
       <td> <img width="1311" height="625" alt="Image" src="https://github.com/user-attachments/assets/fcec71e0-4f63-4c6d-b50b-5fcd7fdf1a58" /> </td>
+    </tr>
+    <tr>
+      <td>[출처:Team BASIS 자체 설문조사(2025)]</td>
     </tr>
   </tbody>
 </table>  
@@ -187,12 +199,12 @@
 |----------|-------------------------------------------|
 | **사용 언어** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white) |
 | **웹 프레임워크** | ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white) |
-| **LLM / VLM** | ![KAKAOCORP/kanana-1.5-8b-instruct](https://img.shields.io/badge/kakaocorp/kanana--1.5--8b--instruct-2505-FFB000?style=for-the-badge&logo=HuggingFace&logoColor=white) ![Qwen](https://img.shields.io/badge/Qwen-005F73?style=for-the-badge&logo=HuggingFace&logoColor=white) |
-| **음성 인식 및 화자 분리 (STT)** | ![Google Cloud Speech-to-Text](https://img.shields.io/badge/CHIRP%203-4285F4?style=for-the-badge&logo=Google-cloud&logoColor=white) ![TELEPHONY STT](https://img.shields.io/badge/TELEPHONY%20STT-000000?style=for-the-badge&logo=Twilio&logoColor=white) |
+| **LLM / VLM** | ![KAKAOCORP/kanana-1.5-8b-instruct](https://img.shields.io/badge/kakaocorp/kanana--1.5--8b--instruct-2505-FFB000?style=for-the-badge&logo=HuggingFace&logoColor=white) ![Qwen3-VL-4B-Instruct](https://img.shields.io/badge/Qwen%2FQwen3--VL--4B--Instruct-000000?style=for-the-badge&logo=AlibabaCloud&logoColor=white) |
+| **음성 인식 및 화자 분리 (STT)** | ![Google Cloud Speech-to-Text](https://img.shields.io/badge/CHIRP%203-4285F4?style=for-the-badge&logo=Google-cloud&logoColor=white) ![TELEPHONY STT](https://img.shields.io/badge/TELEPHONY%20STT-000000?style=for-the-badge&logo=Twilio&logoColor=white) ![Clova Speech](https://img.shields.io/badge/Clova%20Speech-03C75A?style=for-the-badge&logo=Naver&logoColor=white) |
 | **음성 합성 (TTS)** | ![Google Cloud Text-to-Speech](https://img.shields.io/badge/Fish%20Audio-DB4437?style=for-the-badge&logo=Google-cloud&logoColor=white) |
 | **벡터 데이터베이스** | ![FAISS](https://img.shields.io/badge/FAISS-009688?style=for-the-badge&logo=Facebook&logoColor=white) |
 | **임베딩 모델** | ![nlpai-lab/KURE-v1](https://img.shields.io/badge/nlpai--lab%2FKURE--v1-8C9E90?style=for-the-badge&logo=HuggingFace&logoColor=white) |
-| **모델 튜닝 / 학습 프레임워크** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white) ![Transformers](https://img.shields.io/badge/Transformers-FFCC00?style=for-the-badge&logo=HuggingFace&logoColor=black) ![LoRA](https://img.shields.io/badge/LoRA-F76D57?style=for-the-badge&logo=HuggingFace&logoColor=white) |
+| **모델 튜닝 / 학습 프레임워크** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white) ![Transformers](https://img.shields.io/badge/Transformers-FFCC00?style=for-the-badge&logo=HuggingFace&logoColor=black) ![QLoRA](https://img.shields.io/badge/QLoRA-F76D57?style=for-the-badge&logo=HuggingFace&logoColor=white) |
 
 ### 🌐 프론트엔드 및 인프라/배포
 | 카테고리 | 기술 스택 |
@@ -200,7 +212,7 @@
 | **UI / 프론트엔드** | <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> |
 | **실행 환경** | ![RunPod](https://img.shields.io/badge/RunPod-FF4500?style=for-the-badge&logo=Render&logoColor=white) ![AWS EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?style=for-the-badge&logo=Amazon%20AWS&logoColor=white) |
 | **배포 및 컨테이너** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white) ![Docker Compose](https://img.shields.io/badge/Docker--Compose-1488C6?style=for-the-badge&logo=Docker&logoColor=white) |
-| **DB / Storage** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white) ![Amazon S3](https://img.shields.io/badge/Amazon%20S3-232F3E?style=for-the-badge&logo=amazons3&logoColor=white) ![Amazon RDS](https://img.shields.io/badge/Amazon%20RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white) |
+| **DB / Storage** | ![Amazon RDS](https://img.shields.io/badge/Amazon%20RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white) ![Amazon S3](https://img.shields.io/badge/Amazon%20S3-232F3E?style=for-the-badge&logo=amazons3&logoColor=white) |
 | **서버** | ![nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Gunicorn](https://img.shields.io/badge/Gunicorn-499848?style=for-the-badge&logo=Gunicorn&logoColor=white) |
 
 
