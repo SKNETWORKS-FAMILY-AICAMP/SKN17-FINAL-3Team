@@ -245,6 +245,38 @@
 
 ### 4.2 주요 서비스 플로우
 
+**Server**
+- **Amazon EC2** : 인스턴스에서 서비스 배포 및 실행
+- **Docker / Docker Compose** : 서버 환경을 컨테이너화하여 일관된 개발/배포 환경 유지
+- **Nginx** : 리버스 프록시 역할로 클라이언트 요청을 Gunicorn / Django로 전달하고 정적 파일 처리
+- **Gunicorn** : Django 애플리케이션을 WSGI 서버로 실행하여 안정적이고 확장 가능한 서비스 환경 제공
+- **Django** : 사용자 인증, API 요청 처리, DB 연동 등 핵심 백엔드 로직 담당
+
+**API (Sever ↔ Model)**
+- **FastAPI** : Server와 Model 간의 API 요청 / 응답 인터페이스 역할 수행
+- 모든 모델 호출(sLLM, VLM, STT, TTS)은 FastAPI → RunPod GPU 환경에서 처리
+
+**Model**
+- sLLM(kanana) - 자연어 이해 및 생성 기반의 핵심 언어 모델
+- VLM(Qwen3-VL) - 이미지 기반 분석 및 멀티모달 처리 담당 모델
+- STT(Clova Speech) - 음성을 텍스트로 변환하는 STT 엔진
+- TTS(fish-audio/fish-speech) - 텍스트를 자연스러운 음성으로 변환하는 TTS 모델
+- RAG (FAISS) : 검색 증강 생성을 수행, 모델의 답변 정확도 향상 
+
+**Database**
+- **AWS RDS (MySQL)** : 사용자 정보, 구독 정보 등 핵심 데이터 저장
+- **AWS S3** : MP4 등 대용량 미디어 파일 저장 및 제공
+
+**전체 서비스 흐름**
+1. 사용자가 텍스트·음성·이미지로 요청 입력
+2. 요청이 Nginx → Gunicorn → Django 로 전달
+3. Django가 요청을 분석 후 FastAPI 로 모델 연산 요청
+4. FastAPI가 RunPod GPU 모델(sLLM, VLM, STT, TTS, RAG) 을 호출
+5. 모델에서 결과 생성 후 FastAPI → Django로 응답 전달
+6. Django가 결과를 사용자에게 반환
+7. 요청/응답 데이터는 RDS(MySQL) 에 저장
+8. 필요한 미디어 파일은 S3 에서 관리 및 제공
+
 
 <br>
 <br>
@@ -289,9 +321,14 @@
 
 <details>
  <summary>화면 설계서</summary>
+ - 홈페이지
  <img width="1320" height="737" alt="Image" src="https://github.com/user-attachments/assets/3ca73a94-0e10-4dbb-b16a-cf464b5ad0bd" />
  <img width="1323" height="741" alt="Image" src="https://github.com/user-attachments/assets/6930c355-c158-450a-ac7f-531c95a3b0c3" />
+
+ - 하이라이트 영상
  <img width="1325" height="745" alt="Image" src="https://github.com/user-attachments/assets/4ef80114-b26c-4584-9aef-6100ae65e3b4" />
+
+ - 업로드 영상 
  <img width="1317" height="737" alt="Image" src="https://github.com/user-attachments/assets/a68b8234-4b6d-4e62-9d70-c39ce66c2339" />
 
 </details>
