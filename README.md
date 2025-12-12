@@ -433,22 +433,22 @@
 ## 결과 및 사용자 피드백
 **[사용자 테스트 설문 결과]**
 
-![image](https://github.com/user-attachments/assets/d937af9d-45cc-429e-9250-340adee14b28)
+
 
 
 **[평가]**
 
-![9기_2팀_최종PPT pptx (10)](https://github.com/user-attachments/assets/79a8810e-f80f-4dec-8af3-648d152ce795)
+
 
 
 **[기대 효과]**
 
-![9기_2팀_최종PPT pptx (11)](https://github.com/user-attachments/assets/5c1836a7-8fd5-43a9-bf0b-ca08b4bdc531)
+
 
 
 **[확장 가능성]**
 
-![9기_2팀_최종PPT pptx (12)](https://github.com/user-attachments/assets/2b924d7e-67c9-4aae-a3d4-a8b1adc40773)
+
 
 
 
