@@ -257,25 +257,25 @@
 - 모든 모델 호출(sLLM, VLM, STT, TTS)은 FastAPI → RunPod GPU 환경에서 처리
 
 **Model**
-- sLLM(kanana) - 자연어 이해 및 생성 기반의 핵심 언어 모델
-- VLM(Qwen3-VL) - 이미지 기반 분석 및 멀티모달 처리 담당 모델
-- STT(Clova Speech) - 음성을 텍스트로 변환하는 STT 엔진
-- TTS(fish-audio/fish-speech) - 텍스트를 자연스러운 음성으로 변환하는 TTS 모델
-- RAG (FAISS) : 검색 증강 생성을 수행, 모델의 답변 정확도 향상 
+- **sLLM(kanana)** - 자연어 이해 및 생성 기반의 핵심 언어 모델
+- **VLM(Qwen3-VL)** - 이미지 기반 분석 및 멀티모달 처리 담당 모델
+- **STT(Clova Speech)** - 음성을 텍스트로 변환하는 STT 엔진
+- **TTS(fish-audio/fish-speech)** - 텍스트를 자연스러운 음성으로 변환하는 TTS 모델
+- **RAG (FAISS)** : 검색 증강 생성을 수행, 모델의 답변 정확도 향상 
 
 **Database**
-- **AWS RDS (MySQL)** : 사용자 정보, 구독 정보 등 핵심 데이터 저장
+- **AWS RDS (MySQL)** : 사용자 정보, 구독 정보(결제/플랜) 등 핵심 데이터 저장
 - **AWS S3** : MP4 등 대용량 미디어 파일 저장 및 제공
 
 **전체 서비스 흐름**
-1. 사용자가 텍스트·음성·이미지로 요청 입력
+1. 사용자가 텍스트 입력 또는 동영상 업로드(원본 MP4)
 2. 요청이 Nginx → Gunicorn → Django 로 전달
 3. Django가 요청을 분석 후 FastAPI 로 모델 연산 요청
 4. FastAPI가 RunPod GPU 모델(sLLM, VLM, STT, TTS, RAG) 을 호출
 5. 모델에서 결과 생성 후 FastAPI → Django로 응답 전달
 6. Django가 결과를 사용자에게 반환
-7. 요청/응답 데이터는 RDS(MySQL) 에 저장
-8. 필요한 미디어 파일은 S3 에서 관리 및 제공
+7. 사용자 계정, 구독정보 등의 정보는 RDS(MySQL)에 저장
+8. 사용자가 업로드한 원본 동영상과 대용량 미디어 파일은 S3에 저장
 
 
 <br>
